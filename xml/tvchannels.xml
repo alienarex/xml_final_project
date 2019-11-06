@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="xslsheet.xsl" ?>
 
 <tvchannels>
-    <channel>disneychannel.xml</channel>
-    <channel>emotion_cmore.xml</channel>
-    <channel>tv4_fakta.xml</channel>
+    <channel href="disneychannel.xml">disneychannel.xml</channel>
+    <doc href="emotion_cmore.xml">emotion_cmore.xml</doc>
+    <channel href="tv4_fakta.xml">tv4_fakta.xml</channel>
 </tvchannels>

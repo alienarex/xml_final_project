@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE tv SYSTEM "..\xmltv-master\xmltv-master/xmltv.dtd">
+
+
+<tv generator-info-name="Vind 2.53.1" generator-info-url="https://xmltv.se">
+    <programme channel="emotion.cmore.se" start="20191109040000 +0000" stop="20191109045500 +0000">
+        <title lang="sv">Blue bloods</title>
+        <sub-title>Close Calls</sub-title>
+        <desc lang="sv">
+Kriminalserie om familjen Reagan, som alla arbetar inom rättssystemet. Pappa Frank Reagan är New Yorks polismästare och styr sin avdelning lika diplomatiskt som sin familj. Han gör allt för att de ska hålla ihop, men det är inte alltid så lätt. Danny upptäcker att hans svåger Jimmy har samröre med maffian. Han tvingar därför Jimmy att hjälpa Baez med utredningen för att fälla maffian. Erin fortsätter utredningen mot Anthonys gamla partner.
+        </desc>
+        <credits>
+            <actor>Tom Selleck</actor>
+            <actor>Donnie Wahlberg</actor>
+            <actor>Bridget Moynahan</actor>
+            <actor>Will Estes</actor>
+            <actor>Len Cariou</actor>
+            <actor>Amy Carlson</actor>
+            <actor>Marisa Ramirez</actor>
+            <actor>Sami Gayle</actor>
+            <actor>Vanessa Ray</actor>
+        </credits>
+        <category lang="en">series</category>
+        <category lang="en">Drama</category>
+        <episode-num system="xmltv_ns">7.16.</episode-num>
+    </programme>
+    <programme channel="emotion.cmore.se" start="20191109045500 +0000" stop="20191109055500 +0000">
+        <title lang="sv">Kronofogden knackar på</title>
+        <sub-title>Can't Pay We'll Take It Away</sub-title>
+        <desc lang="sv">
+Här följer man kronoinspektörer i deras arbete runt om i Storbritannien. Det blir en nära inblick när de besöker företag och privatpersoner för att utmäta deras skulder. Det är ingen lätt uppgift och de möter personer som är aggressiva, känslosamma och sådana som ljuger dem rakt upp i ansiktet. Stewart och Iain hamnar i en het situation när en gäldenärs son hotar med att bränna upp hyreslägenheten de vräks ur. Brian och Del tvingas ta till oortodoxa metoder när de får svårt att hitta en man som är skyldig en uthyrare en del pengar.
+        </desc>
+        <category lang="en">movie</category>
+        <category lang="en">Documentary</category>
+        <episode-num system="xmltv_ns">3.2.</episode-num>
+    </programme>
+    <programme channel="emotion.cmore.se" start="20191109055500 +0000" stop="20191109065500 +0000">
+        <title lang="sv">Dolph Lundgrens Take the tower</title>
+        <desc lang="sv">
+Ikoniske Hollywoodskurken Dolph Lundgren ställer team av vänner och familj inför spännande utmaningar baserade på filmvärldens bästa actionfilmer. För varje utmaning de klarar tar de sig närmare Dolph i toppen av tornet och den åtråvärda vinsten. Programstart. Adrenalinet pumpar hos första gänget ut att ta sig an Hollywoodhunken Dolph Lundgrens torn. Tävlingstokige Jake från södra Wales har med sig sin pappa, bror, och pojkvän i kampen genom pulshöjande utmaningar för att ta över skyskrapan.
+        </desc>
+        <category lang="en">series</category>
+        <episode-num system="xmltv_ns">0.0.</episode-num>
+    </programme>
+    <programme channel="emotion.cmore.se" start="20191109065500 +0000" stop="20191109090000 +0000">
+        <title lang="sv">Sändningsuppehåll</title>
+        <sub-title lang="sv">Sändningsuppehåll</sub-title>
+        <category lang="en">movie</category>
+    </programme>
+    <programme channel="emotion.cmore.se" start="20191109090000 +0000" stop="20191109100000 +0000">
+        <title lang="sv">Dolph Lundgrens Take the tower</title>
+        <desc lang="sv">
+Ikoniske Hollywoodskurken Dolph Lundgren ställer team av vänner och familj inför spännande utmaningar baserade på filmvärldens bästa actionfilmer. För varje utmaning de klarar tar de sig närmare Dolph i toppen av tornet och den åtråvärda vinsten. Dolph Lundgren utmanas av actionfilmfantasten Kirsty tillsammans med dottern Lana och syskonbarnen Ronnie och Michael från Glasgow. Men tornet med alla dess utmaningar visar sig svårt att övervinna, hur långt kommer gänget att nå?
+        </desc>
+        <category lang="en">series</category>
+        <episode-num system="xmltv_ns">0.2.</episode-num>
+    </programme>
+    <programme channel="emotion.cmore.se" start="20191109100000 +0000" stop="20191109103000 +0000">
+        <title lang="sv">Border patrol</title>
+        <sub-title lang="nl">Border Patrol</sub-title>
+        <desc lang="sv">
+Vi får inblick i det dagliga arbetet som utförs av männen och kvinnorna på frontlinjen med att skydda den nyzeeländska gränsen. Gränspolisen kämpar mot allt från drogsmuggling och illegal import av exotiska djur till falska pass. Teamet undersöker ett fall av pedofili. En knarkhund får upp ett spår ombord på en lyxjakt och en indisk kvinna försöker smuggla curryblad.
+        </desc>
+        <category lang="en">movie</category>
+        <category lang="en">Documentary</category>
+        <episode-num system="xmltv_ns">4.7.</episode-num>
+    </programme>
+    <programme channel="emotion.cmore.se" start="20191109103000 +0000" stop="20191109125500 +0000">
+        <title lang="sv">Hemvärn och påssjuka</title>
+        <sub-title lang="sv">Hemvärn och påssjuka</sub-title>
+        <desc lang="sv">
+Armén vill förlägga sina trupper till en bondgård i Halland under beredskapsåren. Men storbonden är inte så pigg på det då det skulle störa hans svartabörsaffärer. Något måste göras men frågan är om en släng av påssjuka kan göra susen.
+        </desc>
+        <credits>
+            <director>Krister Claesson</director>
+            <actor>Krister Claesson</actor>
+            <actor>Stefan Gerhardsson</actor>
+            <actor>Jojje Jönsson</actor>
+            <actor>Siw Carlsson</actor>
+            <actor>Annika Andersson</actor>
+        </credits>
+        <category lang="en">movie</category>
+        <category lang="en">Comedy</category>
+    </programme>
+    <programme channel="emotion.cmore.se" start="20191109125500 +0000" stop="20191109133000 +0000">
+        <title lang="sv">Border patrol</title>
+        <sub-title lang="nl">Border Patrol</sub-title>
+        <desc lang="sv">
+Vi får inblick i det dagliga arbetet som utförs av männen och kvinnorna på frontlinjen med att skydda den nyzeeländska gränsen. Gränspolisen kämpar mot allt från drogsmuggling och illegal import av exotiska djur till falska pass. En knarkhund hittar ingredienser till metamfetamin under en rutinkontroll, fem bilar beslagtas från en imortör och ett kinesiskt par gömmer svampar och medicin gjord på antilophorn i bagaget.
+        </desc>
+        <category lang="en">movie</category>
+        <category lang="en">Documentary</category>
+        <episode-num system="xmltv_ns">4.8.</episode-num>
+    </programme>
+    <programme channel="emotion.cmore.se" start="20191109133000 +0000" stop="20191109150000 +0000">
+        <title lang="sv">V75 Direkt med V4</title>
+        <desc lang="sv">Del 44/50. V75 Direkt med V4</desc>
+        <category lang="en">sports</category>
+    </programme>
+    <programme channel="emotion.cmore.se" start="20191109150000 +0000" stop="20191109170000 +0000">
+        <title lang="sv">V75 Direkt</title>
+        <desc lang="sv">Direktsändning</desc>
+        <category lang="en">sports</category>
+    </programme>
+    <programme channel="emotion.cmore.se" start="20191109170000 +0000" stop="20191109180000 +0000">
+        <title lang="sv">Kronofogden knackar på</title>
+        <sub-title>Can't Pay We'll Take It Away</sub-title>
+        <desc lang="sv">
+Här följer man kronoinspektörer i deras arbete runt om i Storbritannien. Det blir en nära inblick när de besöker företag och privatpersoner för att utmäta deras skulder. Det är ingen lätt uppgift och de möter personer som är aggressiva, känslosamma och sådana som ljuger dem rakt upp i ansiktet. Steve och Ben ställs inför ett av de mest tragiska återtagandena någonsin när de besöker en kvinna som elförsörjer hela sin lägenhet med hjälp av ett elluttag i trappen. Stewart och Vic hamnar i en konfrontation med en gäldenär som påstår att han kan lagen bättre än någon annan.
+        </desc>
+        <category lang="en">movie</category>
+        <category lang="en">Documentary</category>
+        <episode-num system="xmltv_ns">3.4.</episode-num>
+    </programme>
+    <programme channel="emotion.cmore.se" start="20191109180000 +0000" stop="20191109185500 +0000">
+        <title lang="sv">Parlamentet</title>
+        <desc lang="sv">
+I Parlamentet gör de politiska blocken upp om makten varje vecka. Frispråkighet och snabba repliker premieras. Lagen siktar både högt och lågt och ger med träffsäker ironi en humoristisk bild av dagens samhälle. Anders S Nilsson kämpar för att hålla ordning på de politiska blocken. I det röda laget tävlar Annika Andersson, Carl Stanley och Petrina Solange. I det blåa laget hittar vi Måns Möller, Mikael Tornving och Bianca Kronlöf.
+        </desc>
+        <category lang="en">series</category>
+        <episode-num system="xmltv_ns">31.3.</episode-num>
+    </programme>
+    <programme channel="emotion.cmore.se" start="20191109185500 +0000" stop="20191109195500 +0000">
+        <title lang="sv">Heathrow</title>
+        <desc lang="sv">
+Följ med bakom kulisserna på Europas största flygplats och möt några av de 76 000 anställda som arbetar dygnet runt med att hålla flygplatsen fungerande. Ingen dag är den andra lik och de får hantera allt ifrån farligt gods till bråkiga passagerare. Säsongsavslutning. En massiv snöstorm har dragit in och Hugh gör allt han kan för att hålla landningsbanorna öppna. Numan tar hand om arga passagerare på väg till New York som fått sitt flyg inställt och polishunden Ruby söker igenom ett plan.
+        </desc>
+        <category lang="en">movie</category>
+        <category lang="en">Documentary</category>
+        <episode-num system="xmltv_ns">2.2.</episode-num>
+    </programme>
+    <programme channel="emotion.cmore.se" start="20191109195500 +0000" stop="20191109202000 +0000">
+        <title lang="sv">Brorsor 4ever</title>
+        <sub-title>Jobbkvinnan</sub-title>
+        <desc lang="sv">
+Kenny och Josef flyttar in i en ny lägenhet tillsammans. Där övar de karate, stör sina grannar och jobbar på sin Youtube-kanal som de hoppas ska slå igenom. Men allt går inte som det är tänkt, inte ens när vännerna gör sitt bästa för att hjälpa till. Kenny blir kallad på en intervju till sitt drömjobb på datorspelsföretaget Apocalypto. Josef tvivlar dock på att Kenny har det självförtroende som krävs för att få jobbet och försöker därför vägleda sin vän – vilket inte går helt problemfritt.
+        </desc>
+        <credits>
+            <actor>Klas Eriksson</actor>
+            <actor>Alfred Svensson</actor>
+        </credits>
+        <category lang="en">series</category>
+        <category lang="en">Comedy</category>
+        <episode-num system="xmltv_ns">0.1.</episode-num>
+    </programme>
+    <programme channel="emotion.cmore.se" start="20191109202000 +0000" stop="20191109210000 +0000">
+        <title lang="sv">Mitt liv som snut</title>
+        <desc lang="sv">
+Brittisk humorserie från 1996 om en liten polisstation i den engelska staden Gasforth. I centrum för handlingen står konstapel Fowler (Rowan Atkinson) och hans rivalitet med kriminalaren Derek Grim (David Haig) I samband med att en illegal immigrant ska gripas försöker Fówler diskutera med sina medarbetare kring diskriminerande och sexistiskt beteende.
+        </desc>
+        <credits>
+            <actor>Rowan Atkinson</actor>
+        </credits>
+        <category lang="en">series</category>
+        <episode-num system="xmltv_ns">1.1.</episode-num>
+    </programme>
+    <programme channel="emotion.cmore.se" start="20191109210000 +0000" stop="20191109213000 +0000">
+        <title lang="sv">Mr Bean</title>
+        <desc lang="sv">
+Brittisk humorserie från 1992 om den udda karaktären Mr. Bean, och hans speciella sätt att hantera vardagliga situationer. Mr. Bean blir ofrivilligt barnvakt åt en liten bebis. Bean tar med barnet till en nöjespark som får vara med om en massa dråpliga missöden innan barnets mamma slutligen återvänder.
+        </desc>
+        <credits>
+            <actor>Rowan Atkinson</actor>
+        </credits>
+        <category lang="en">series</category>
+        <episode-num system="xmltv_ns">0.8.</episode-num>
+    </programme>
+    <programme channel="emotion.cmore.se" start="20191109213000 +0000" stop="20191109233500 +0000">
+        <title lang="sv">Rocky Balboa</title>
+        <desc lang="sv">
+Före detta boxningsvärldsmästaren Rocky Balboa lever numera ett liv utanför rampljuset. Han äger en restaurang och kämpar med sorgen efter sin bortgångna fru. När Rocky blir utnämnd till den störste boxaren genom tiderna utmanar den regerande världsmästaren Mason Dixon honom på en tv-sänd match.
+        </desc>
+        <credits>
+            <director>Sylvester Stallone</director>
+            <actor>Sylvester Stallone</actor>
+            <actor>Burt Young</actor>
+            <actor>Antonio Tarver</actor>
+            <actor>Geraldine Hughes</actor>
+            <actor>Milo Ventimiglia</actor>
+            <actor>Tony Burton</actor>
+            <actor>Talia Shire</actor>
+            <actor>Mike Tyson</actor>
+            <actor>Henry G Sanders</actor>
+        </credits>
+        <category lang="en">movie</category>
+        <category lang="en">Drama</category>
+    </programme>
+    <programme channel="emotion.cmore.se" start="20191109233500 +0000" stop="20191110003500 +0000">
+        <title lang="sv">Nya trafikpoliserna</title>
+        <sub-title lang="en">Night Thieves</sub-title>
+        <desc lang="sv">
+Biljakter och adrenalin tillhör Yorkshirepolisens vardag när patrullerna beger sig ut om nätterna för att möta varje hot och varje rop på hjälp, redo att bekämpa alltmer sofistikerade brottslingar med nya metoder. Ett skift är aldrig det andra likt. Efter två massiva krascher med livshotande skador som resultat avslöjar poliserna lögner, bedrägeri, droger och hänsynslösa bilförare. I en rutinkoll påträffas en cigarettsmuggling, och även de mest erfarna poliserna häpnar av tjuvarnas tilltag.
+        </desc>
+        <credits>
+            <director>Chris Greenwood</director>
+        </credits>
+        <category lang="en">movie</category>
+        <category lang="en">Documentary</category>
+        <episode-num system="xmltv_ns">1.3.</episode-num>
+    </programme>
+    <programme channel="emotion.cmore.se" start="20191110003500 +0000" stop="20191110011000 +0000">
+        <title lang="sv">Polis på plats</title>
+        <sub-title>Police Ten 7</sub-title>
+        <desc lang="sv">
+Få en sällan skådad inblick i polisens alldagliga arbete i denna nyzeeländska dokumentärserie. Med sin väletablerade relation till den nyzeeländska poliskåren får ni en obegränsad och ofiltrerat tillgång till allt som fastnar hos kamerateamet. Under lördagskvällen rycker poliserna ut på en anmälan om ett bråk mellan en man och en kvinna. när de väl infinner sig på adressen tycks det ha lugnat ner sig, men Frank håller en blodig handduk kring handen, så vad har hänt?
+        </desc>
+        <category lang="en">movie</category>
+        <category lang="en">Documentary</category>
+        <episode-num system="xmltv_ns">23.11.</episode-num>
+    </programme>
+    <programme channel="emotion.cmore.se" start="20191110011000 +0000" stop="20191110015500 +0000">
+        <title lang="sv">Polis på plats</title>
+        <sub-title>Police Ten 7</sub-title>
+        <desc lang="sv">
+Få en sällan skådad inblick i polisens alldagliga arbete i denna nyzeeländska dokumentärserie. Med sin väletablerade relation till den nyzeeländska poliskåren får ni en obegränsad och ofiltrerat tillgång till allt som fastnar hos kamerateamet. I sommarens hetta skickas poliserna ut att ta hand om bråk och konflikter som eskalerar och hotar bli ohanterliga. Dessutom blir det dags för helikopterperspektiv när polisen jagar misstänkta inbrottstjuvar.
+        </desc>
+        <category lang="en">movie</category>
+        <category lang="en">Documentary</category>
+        <episode-num system="xmltv_ns">23.12.</episode-num>
+    </programme>
+    <programme channel="emotion.cmore.se" start="20191110015500 +0000" stop="20191110040000 +0000">
+        <title lang="sv">Hands of Stone</title>
+        <desc lang="sv">
+Den sanna och otroliga berättelsen om Roberto Durán, boxaren som proffsdebuterade redan som sextonåring 1968 och vars karriär inte tog slut förrän över trettio år senare. Den stora höjdpunkten kom 1980 då Durán besegrade Sugar Ray Leonard och blev världsmästare i weltervikt.
+        </desc>
+        <credits>
+            <director>Jonathan Jakubowicz</director>
+            <actor>Édgar Ramírez</actor>
+            <actor>Robert De Niro</actor>
+            <actor>Usher Raymond</actor>
+        </credits>
+        <category lang="en">movie</category>
+        <category lang="en">Drama</category>
+    </programme>
+</tv>
