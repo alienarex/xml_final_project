@@ -1,1 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><tvchannels><channel id="">disneychannel.xml</channel><channel id="">emotion_cmore.xml</channel><channel id="">tv4_fakta.xml</channel></tvchannels>
+<?xml version="1.0" encoding="UTF-8" ?>
+<tvchannels>
+    <channel filename="disneychannel.xml">disneychannel.xml</channel>
+    <channel filename="emotion_cmore.xml">emotion_cmore.xml</channel>
+    <channel filename="tv4_fakta.xml">tv4_fakta.xml</channel>
+</tvchannels>

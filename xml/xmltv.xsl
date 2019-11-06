@@ -1,23 +1,24 @@
 <?xml version="1.0" ?>
 <!--source: https://sourceforge.net/p/xmltv/feature-requests/37/  -->
 
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" >
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <xsl:output method="xml" />
 
     <xsl:variable name="disney">
-                    <xsl:value-of select="tvchannels/channel[1]" />
-                </xsl:variable>
-                <xsl:variable name="tv4fakta">
-                        <xsl:value-of select="tvchannels/channel[3]" />
-                </xsl:variable>
-                <xsl:variable name="emo_cmore">
-                        <xsl:value-of select="tvchannels/channel[2]" />
-                </xsl:variable>
+        <xsl:value-of select="tvchannels/channel[1]" />
+    </xsl:variable>
+    <xsl:variable name="tv4fakta">
+        <xsl:value-of select="document(tvchannels/channel[3]" />
+    </xsl:variable>
+    <xsl:variable name="emo_cmore">
+        <xsl:value-of select="tvchannels/channel[2]" />
+    </xsl:variable>
     <xsl:key name="channel" match="/tv/channel" use="@id" />
 
-    <xsl:template match="$tv4fakta">
-                <xsl:apply-templates select="tv"/>
-        </xsl:template>
+    <xsl:template match="/">
+    <xsl:for-each select="/tvchannels/channel"></xsl:for-each>
+        <xsl:apply-templates select="document(@filename)/tv" />
+    </xsl:template>
 
 
     <xsl:template match="tv">
