@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "validators"
+		},
+		{
+			"path": "vectors"
 		}
 	]
 }

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<tvguide xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:tvguide.xsd">
+<tvguide xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../validators/tvguide.xsd">
 	<tv generator-info-name="Vind 2.53.1" generator-info-url="https://xmltv.se">
 		<programme channel="disneychannel.com" start="20191103040000 +0000" stop="20191103042500 +0000" clumpidx="0/1">
 			<title lang="en">PJ Masks</title>
