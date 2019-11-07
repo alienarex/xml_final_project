@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE tv SYSTEM "..\xmltv-master\xmltv-master/xmltv.dtd">
+
+
+<tv generator-info-name="Vind 2.53.1" generator-info-url="https://xmltv.se">
+    <programme channel="action.film.viasat.se" start="20191105050000 +0000" stop="20191105065800 +0000">
+        <title lang="sv">Sahara</title>
+        <desc lang="sv">
+    Äventyraren Dirk Pitt, åker på sitt livs skattjakt i Västafrikas farliga öken. Tillsammans med sin kompis Al, försöker de hitta ett gammalt spökskepp som sägs ha en värdefull skatt ombord.
+    </desc>
+        <credits>
+            <director>Breck Eisner</director>
+            <actor>Matthew McConaughey</actor>
+            <actor>Penelope Cruz</actor>
+            <actor>Jude Akuwidike</actor>
+            <actor>Rakie Ayola</actor>
+            <actor>Robert Cavanah</actor>
+        </credits>
+        <category lang="en">movie</category>
+        <category lang="en">Action</category>
+        <category lang="en">Adventure</category>
+    </programme>
+    <programme channel="action.film.viasat.se" start="20191105070000 +0000" stop="20191105082400 +0000">
+        <title lang="sv">Ufo</title>
+        <desc lang="sv">
+    Oförklarliga fenomen har i decennier mörkats av USA:s regering – fram till nu. En ung student, hans flickvän och en matteprofessor dyker in i mysteriet, samtidigt som FBI flåsar dem i nacken.
+    </desc>
+        <credits>
+            <director>Ryan Eslinger</director>
+            <actor>Alex Sharp</actor>
+            <actor>Gillian Anderson</actor>
+            <actor>Ella Purnell</actor>
+            <actor>Benjamin Beatty</actor>
+            <actor>Cece Abbey</actor>
+        </credits>
+        <category lang="en">movie</category>
+        <category lang="en">Action</category>
+        <category lang="en">Science-Fiction</category>
+    </programme>
+    <programme channel="action.film.viasat.se" start="20191105090000 +0000" stop="20191105102700 +0000">
+        <title lang="sv">The Truth Matters</title>
+        <desc lang="sv">
+    I Washington accepterar de flesta journalister George W. Bush argument för Irakkriget. Men en grupp gräver djupare och hittar källor i regeringskretsarna som avslöjar maktmissbruk på hög nivå.
+    </desc>
+        <credits>
+            <director>Rob Reiner</director>
+            <actor>Jessica Biel</actor>
+            <actor>Woody Harrelson</actor>
+            <actor>Milla Jovovich</actor>
+            <actor>Tommy Lee Jones</actor>
+            <actor>James Marsden</actor>
+            <actor>Rob Reiner</actor>
+            <actor>Richard Schiff</actor>
+        </credits>
+        <category lang="en">movie</category>
+        <category lang="en">Drama</category>
+    </programme>
+    <programme channel="action.film.viasat.se" start="20191105110000 +0000" stop="20191105122600 +0000">
+        <title lang="sv">Superswede: En film om Ronnie Peterson</title>
+        <desc lang="sv">
+    Den svenska racingföraren Ronnie Peterson dog i en våldsam krasch på Monzabanan 1978, vilket chockade en hel värld. I dokumentären medverkar Ronnies dotter Nina Kennedy och några av de största namnen i racingvärlden. Det är en storslagen resa till en tid då Formel 1 innebar glamour, hjältemod och affärer. Dokumentären skildrar också de händelser som lett till att ett dussintals förare mist sina liv på bara ett årtionde.
+    </desc>
+        <credits>
+            <director>Henrik Jansson-Schweizer</director>
+        </credits>
+        <category lang="en">movie</category>
+        <category lang="en">Documentary</category>
+    </programme>
+    <programme channel="action.film.viasat.se" start="20191105130000 +0000" stop="20191105143400 +0000">
+        <title lang="sv">A-X-L</title>
+        <desc lang="sv">
+    Miles möter A.X.L., en modern militärhund med artificiell intelligens, och de blir vänner. Men A.X.L.s skapare är på desperat jakt efter honom och Miles måste göra allt för att stoppa det.
+    </desc>
+        <credits>
+            <director>Oliver Daly</director>
+            <actor>Alex Neustaedter</actor>
+            <actor>Becky G</actor>
+            <actor>Alex MacNicoll</actor>
+            <actor>Dominic Rains</actor>
+            <actor>Thomas Jane</actor>
+            <actor>Lou Taylor Pucci</actor>
+        </credits>
+        <category lang="en">movie</category>
+        <category lang="en">Action</category>
+        <category lang="en">Adventure</category>
+    </programme>
+    <programme channel="action.film.viasat.se" start="20191105145000 +0000" stop="20191105164100 +0000">
+        <title lang="sv">Robin Hood</title>
+        <desc lang="sv">
+    Den krigshärdade korsriddaren Robin av Loxley (Taron Egerton) och hans moriske följeslagare (Jamie Foxx) drar igång ett djärvt uppror mot den korrumperade engelska kronan. Som adelsman på dagen och som rättvisans förkämpe "The Hood" på natten måste Robin offra allt för att rädda Nottinghams invånare och utkräva sin hämnd. Filmen är ett nervpirrande och actionspäckat äventyr med storslagna bataljscener, makalöst välkoreograferade kampscener och tidlös romantik.
+    </desc>
+        <credits>
+            <director>Otto Bathurst</director>
+            <actor>Taron Egerton</actor>
+            <actor>Jamie Foxx</actor>
+            <actor>Ben Mendelsohn</actor>
+            <actor>Eve Hewson</actor>
+            <actor>Jamie Dornan</actor>
+            <actor>Paul Anderson</actor>
+        </credits>
+        <category lang="en">movie</category>
+        <category lang="en">Action</category>
+        <category lang="en">Adventure</category>
+    </programme>
+</tv>
