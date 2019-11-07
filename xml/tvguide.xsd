@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:element name="tvguide">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="tv"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="tv">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="programme"/>
+            </xs:sequence>
+            <xs:attribute name="generator-info-name" use="required"/>
+            <xs:attribute name="generator-info-url" use="required" type="xs:anyURI"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="programme">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="title"/>
+                <xs:element minOccurs="0" ref="sub-title"/>
+                <xs:element minOccurs="0" ref="desc"/>
+                <xs:element minOccurs="0" ref="credits"/>
+                <xs:element maxOccurs="unbounded" ref="category"/>
+                <xs:element minOccurs="0" ref="episode-num"/>
+            </xs:sequence>
+            <xs:attribute name="channel" use="required" type="xs:NCName"/>
+            <xs:attribute name="clumpidx" use="required"/>
+            <xs:attribute name="start" use="required"/>
+            <xs:attribute name="stop" use="required"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="title">
+        <xs:complexType mixed="true">
+            <xs:attribute name="lang" use="required" type="xs:NCName"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="sub-title">
+        <xs:complexType mixed="true">
+            <xs:attribute name="lang" type="xs:NCName"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="desc">
+        <xs:complexType mixed="true">
+            <xs:attribute name="lang" use="required" type="xs:NCName"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="credits">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="actor"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="actor" type="xs:string"/>
+    <xs:element name="category">
+        <xs:complexType>
+            <xs:simpleContent>
+                <xs:extension base="xs:NCName">
+                    <xs:attribute name="lang" use="required" type="xs:NCName"/>
+                </xs:extension>
+            </xs:simpleContent>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="episode-num">
+        <xs:complexType>
+            <xs:simpleContent>
+                <xs:extension base="xs:NMTOKEN">
+                    <xs:attribute name="system" use="required" type="xs:NCName"/>
+                </xs:extension>
+            </xs:simpleContent>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

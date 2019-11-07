@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<tvguide xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:tvguide.xsd">
+	<tv generator-info-name="Vind 2.53.1" generator-info-url="https://xmltv.se">
+		<programme channel="disneychannel.com" start="20191103040000 +0000" stop="20191103042500 +0000" clumpidx="0/1">
+			<title lang="en">PJ Masks</title>
+			<desc lang="en">
+Måntjejen gör en ondskefull blomma! Gecko blir distraherad.
+        </desc>
+			<category lang="en">series</category>
+			<category lang="en">Animation</category>
+			<episode-num system="xmltv_ns">0.22.</episode-num>
+		</programme>
+		<programme channel="disneychannel.com" start="20191103042500 +0000" stop="20191103043500 +0000" clumpidx="0/1">
+			<title lang="en">Henry Hugglemonster</title>
+			<desc lang="en">
+I den här charmiga animerade serien, baserad på Niamh Sharkeys böcker, träffar vi den livsglada femåringen Henry Krammonster. Han är mellanbarnet i en kärleksfull och livlig monsterfamilj, och visar de unga tittarna hur man kan navigera genom ett aktivt familjeliv.
+        </desc>
+			<category lang="en">series</category>
+			<episode-num system="xmltv_ns">0.15.</episode-num>
+		</programme>
+		<programme channel="disneychannel.com" start="20191103043500 +0000" stop="20191103050000 +0000" clumpidx="0/1">
+			<title lang="en">Art Attack</title>
+			<desc lang="en">
+Häng med Leon när han skapar unika saker och inspirerande konst i den andra säsongen av Disney Junior-favoriten Art Attack! Serien är för hela familjen och uppmuntrar barn i alla åldrar att prova på och utveckla sina konstnärliga färdigheter.
+        </desc>
+			<category lang="en">series</category>
+			<episode-num system="xmltv_ns">1.34.</episode-num>
+		</programme>
+	</tv>
+	<tv generator-info-name="Vind 2.53.1" generator-info-url="https://xmltv.se">
+		<programme channel="emotion.cmore.se" start="20191109040000 +0000" stop="20191109045500 +0000" clumpidx="0/1">
+			<title lang="sv">Blue bloods</title>
+			<sub-title>Close Calls</sub-title>
+			<desc lang="sv">
+Kriminalserie om familjen Reagan, som alla arbetar inom rättssystemet. Pappa Frank Reagan är New Yorks polismästare och styr sin avdelning lika diplomatiskt som sin familj. Han gör allt för att de ska hålla ihop, men det är inte alltid så lätt. Danny upptäcker att hans svåger Jimmy har samröre med maffian. Han tvingar därför Jimmy att hjälpa Baez med utredningen för att fälla maffian. Erin fortsätter utredningen mot Anthonys gamla partner.
+        </desc>
+			<credits>
+				<actor>Tom Selleck</actor>
+				<actor>Donnie Wahlberg</actor>
+				<actor>Bridget Moynahan</actor>
+				<actor>Will Estes</actor>
+				<actor>Len Cariou</actor>
+				<actor>Amy Carlson</actor>
+				<actor>Marisa Ramirez</actor>
+				<actor>Sami Gayle</actor>
+				<actor>Vanessa Ray</actor>
+			</credits>
+			<category lang="en">series</category>
+			<category lang="en">Drama</category>
+			<episode-num system="xmltv_ns">7.16.</episode-num>
+		</programme>
+		<programme channel="emotion.cmore.se" start="20191109045500 +0000" stop="20191109055500 +0000" clumpidx="0/1">
+			<title lang="sv">Kronofogden knackar på</title>
+			<sub-title>Can't Pay We'll Take It Away</sub-title>
+			<desc lang="sv">
+Här följer man kronoinspektörer i deras arbete runt om i Storbritannien. Det blir en nära inblick när de besöker företag och privatpersoner för att utmäta deras skulder. Det är ingen lätt uppgift och de möter personer som är aggressiva, känslosamma och sådana som ljuger dem rakt upp i ansiktet. Stewart och Iain hamnar i en het situation när en gäldenärs son hotar med att bränna upp hyreslägenheten de vräks ur. Brian och Del tvingas ta till oortodoxa metoder när de får svårt att hitta en man som är skyldig en uthyrare en del pengar.
+        </desc>
+			<category lang="en">movie</category>
+			<category lang="en">Documentary</category>
+			<episode-num system="xmltv_ns">3.2.</episode-num>
+		</programme>
+		<programme channel="emotion.cmore.se" start="20191109055500 +0000" stop="20191109065500 +0000" clumpidx="0/1">
+			<title lang="sv">Dolph Lundgrens Take the tower</title>
+			<desc lang="sv">
+Ikoniske Hollywoodskurken Dolph Lundgren ställer team av vänner och familj inför spännande utmaningar baserade på filmvärldens bästa actionfilmer. För varje utmaning de klarar tar de sig närmare Dolph i toppen av tornet och den åtråvärda vinsten. Programstart. Adrenalinet pumpar hos första gänget ut att ta sig an Hollywoodhunken Dolph Lundgrens torn. Tävlingstokige Jake från södra Wales har med sig sin pappa, bror, och pojkvän i kampen genom pulshöjande utmaningar för att ta över skyskrapan.
+        </desc>
+			<category lang="en">series</category>
+			<episode-num system="xmltv_ns">0.0.</episode-num>
+		</programme>
+		<programme channel="emotion.cmore.se" start="20191109065500 +0000" stop="20191109090000 +0000" clumpidx="0/1">
+			<title lang="sv">Sändningsuppehåll</title>
+			<sub-title lang="sv">Sändningsuppehåll</sub-title>
+			<category lang="en">movie</category>
+		</programme>
+		<programme channel="emotion.cmore.se" start="20191109090000 +0000" stop="20191109100000 +0000" clumpidx="0/1">
+			<title lang="sv">Dolph Lundgrens Take the tower</title>
+			<desc lang="sv">
+Ikoniske Hollywoodskurken Dolph Lundgren ställer team av vänner och familj inför spännande utmaningar baserade på filmvärldens bästa actionfilmer. För varje utmaning de klarar tar de sig närmare Dolph i toppen av tornet och den åtråvärda vinsten. Dolph Lundgren utmanas av actionfilmfantasten Kirsty tillsammans med dottern Lana och syskonbarnen Ronnie och Michael från Glasgow. Men tornet med alla dess utmaningar visar sig svårt att övervinna, hur långt kommer gänget att nå?
+        </desc>
+			<category lang="en">series</category>
+			<episode-num system="xmltv_ns">0.2.</episode-num>
+		</programme>
+	</tv>
+	<tv generator-info-name="Vind 2.53.1" generator-info-url="https://xmltv.se">
+		<programme channel="fakta.tv4.se" start="20191112040200 +0000" stop="20191112050000 +0000" clumpidx="0/1">
+			<title lang="sv">112 - på liv och död</title>
+			<desc lang="sv">
+112 - på liv och död är en svensk dokumentärserie från 2014. Den nionde säsongen sänds i 36 delar. Serien följer brandmän, poliser och ambulanssjuksköterskor i deras arbete. Programmen skildrar de medverkandes vardag men även personerna bakom yrkesrollerna. Starka känslor, turbulens, spänning och snabba beslut blandas med humor, värme och hopp om att hinna fram i tid, rädda liv och förhindra brott och olyckor. I den nionde säsongen medverkar återigen brandmännen Jörgen, Rickard och Thomas på Brännkyrka brandstation i Stockholm. Den här säsongen följer även det yttre befälet Barry, brandförmannen Roger samt brandmännen Olof och Markus på Johannes brandstation. Medverkar gör också brandmännen Tony och nykomlingen Sebastian på Farsta brandstation i Stockholm. Den nionde säsongen av 112 - på liv och död fortsätter att följa det yttre befälet Anders, polisassistenten Hanna samt nykomlingarna Annsi och Gunilla på polisen i Åmål. I den här säsongen medverkar också det yttre befälet Reine och polisassistenterna Andreas, Daniel, Camilla och Gustav i Huddinge samt det yttre befälet Magnus, polisassistenterna Kristoffer och Mats samt gruppchefen Daniel i Handen. Serien fortsätter att följa ambulanssjuksköterskorna Jan-Erik och Angelika samt nykomlingarna Per, Annmarie, Peter och Nicklas i Karlskrona. Den här säsongen följer även ambulanssjuksköterskan Anneli i Karlshamn.
+        </desc>
+			<category lang="en">series</category>
+			<category lang="en">Reality</category>
+			<episode-num system="xmltv_ns">8.31.</episode-num>
+		</programme>
+		<programme channel="fakta.tv4.se" start="20191112050000 +0000" stop="20191112055800 +0000" clumpidx="0/1">
+			<title lang="sv">112 - på liv och död</title>
+			<desc lang="sv">
+112 - på liv och död är en svensk dokumentärserie från 2014. Den nionde säsongen sänds i 36 delar. Serien följer brandmän, poliser och ambulanssjuksköterskor i deras arbete. Programmen skildrar de medverkandes vardag men även personerna bakom yrkesrollerna. Starka känslor, turbulens, spänning och snabba beslut blandas med humor, värme och hopp om att hinna fram i tid, rädda liv och förhindra brott och olyckor. I den nionde säsongen medverkar återigen brandmännen Jörgen, Rickard och Thomas på Brännkyrka brandstation i Stockholm. Den här säsongen följer även det yttre befälet Barry, brandförmannen Roger samt brandmännen Olof och Markus på Johannes brandstation. Medverkar gör också brandmännen Tony och nykomlingen Sebastian på Farsta brandstation i Stockholm. Den nionde säsongen av 112 - på liv och död fortsätter att följa det yttre befälet Anders, polisassistenten Hanna samt nykomlingarna Annsi och Gunilla på polisen i Åmål. I den här säsongen medverkar också det yttre befälet Reine och polisassistenterna Andreas, Daniel, Camilla och Gustav i Huddinge samt det yttre befälet Magnus, polisassistenterna Kristoffer och Mats samt gruppchefen Daniel i Handen. Serien fortsätter att följa ambulanssjuksköterskorna Jan-Erik och Angelika samt nykomlingarna Per, Annmarie, Peter och Nicklas i Karlskrona. Den här säsongen följer även ambulanssjuksköterskan Anneli i Karlshamn.
+        </desc>
+			<category lang="en">series</category>
+			<category lang="en">Reality</category>
+			<episode-num system="xmltv_ns">8.32.</episode-num>
+		</programme>
+		<programme channel="fakta.tv4.se" start="20191112060000 +0000" stop="20191112065800 +0000" clumpidx="0/1">
+			<title lang="sv">En plats i solen: Vintersol</title>
+			<desc lang="sv">
+"En plats i solen: Vintersol" är en brittisk livsstilsserie från 2014. Här hjälper fastighetsexperter personer som söker sitt drömhus där de kan tillbringa sin semester under vintern. Varje avsnitt följer personerna när de tittar på fastigheter på platser som Spanien, Karibien och Florida.
+        </desc>
+			<category lang="en">series</category>
+			<episode-num system="xmltv_ns">1.28.</episode-num>
+		</programme>
+		<programme channel="fakta.tv4.se" start="20191112070000 +0000" stop="20191112075800 +0000" clumpidx="0/1">
+			<title lang="sv">En plats i solen: Vintersol</title>
+			<desc lang="sv">
+"En plats i solen: Vintersol" är en brittisk livsstilsserie från 2014. Här hjälper fastighetsexperter personer som söker sitt drömhus där de kan tillbringa sin semester under vintern. Varje avsnitt följer personerna när de tittar på fastigheter på platser som Spanien, Karibien och Florida.
+        </desc>
+			<category lang="en">series</category>
+			<episode-num system="xmltv_ns">1.29.</episode-num>
+		</programme>
+		<programme channel="fakta.tv4.se" start="20191112080100 +0000" stop="20191112085900 +0000" clumpidx="0/1">
+			<title lang="sv">Halv åtta hos mig: England</title>
+			<desc lang="sv">
+Halv åtta hos mig: England är en brittisk matlagningsserie från 2012. Det här är den sjunde säsongen som sänds i 45 avsnitt. Här får amatörkockar sätta sina matlagningskonster och sociala färdigheter på prov. Fyra för varandra okända personer turas om att bjuda varandra på middag. Varje moment i bjudningen är lika viktigt, presentationen av menyn, inköp, dukning, matlagning, fördrink, underhållningen och slutligen middagen. När den står på bordet är det dags för sanningens ögonblick. Till sist betygsätts värden av sina gäster och den som fått högst betyg när veckan är över kammar hem en summa pengar.
+        </desc>
+			<category lang="en">series</category>
+			<episode-num system="xmltv_ns">6.26.</episode-num>
+		</programme>
+		<programme channel="fakta.tv4.se" start="20191112090000 +0000" stop="20191112095700 +0000" clumpidx="0/1">
+			<title lang="sv">Veterinärerna</title>
+			<desc lang="sv">
+Veterinärerna är en svensk dokumentärserie från 2017. Det här är den sjätte säsongen som sänds i 28 delar. Om veterinärer runt om i Sverige och deras dagliga arbete på bland annat djursjukhus, djurkliniker och djurparker. De visar öppenhjärtigt upp sin vardag där de hjälper djur som skadat sig eller blivit sjuka. Veterinärerna möter många olika typer av djur, både stora och små, och får ta del av deras ägares berättelser. Det blir inslag med veterinärer från Falun, Ludvika, Stockholm, Göteborg, Jönköping, Norsholm, Kalmar, Läckeby och Hässleholm. Veterinärer och djurvårdare på Skånes djurpark medverkar också.
+        </desc>
+			<category lang="en">series</category>
+			<episode-num system="xmltv_ns">5.14.</episode-num>
+		</programme>
+		<programme channel="fakta.tv4.se" start="20191112100100 +0000" stop="20191112105900 +0000" clumpidx="0/1">
+			<title lang="sv">Mitt liv som valp</title>
+			<desc lang="sv">
+Mitt liv som valp är en svensk dokumentärserie från 2015. Det här är den första säsongen som sänds i tio delar. Här ges en inblick i åtta nya hundägares liv och de utmaningar som den första tiden kan innebära. Valparna är av olika raser och befinner sig i skilda stadier av valplivet, allt från den allra minsta som just lämnat kullen till tonårsvalpen som orsakar oreda så fort den vill leka. Hundtränaren Fredrik Steen stöttar familjerna och ger råd kring de problem som kan uppstå. Det kan handla om frågor kring att valpen inte sover om natten, att den envisas med att kissa inomhus eller om den kan lämnas ensam hemma. Både glädjen och oron som hussarna och mattarna upplever får plats i programmet.
+        </desc>
+			<category lang="en">series</category>
+			<episode-num system="xmltv_ns">0.0.</episode-num>
+		</programme>
+	</tv>
+</tvguide>

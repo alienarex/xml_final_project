@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "xmltv-master"
+		},
+		{
+			"path": "validators"
 		}
 	]
 }
