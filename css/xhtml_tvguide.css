@@ -1,0 +1,26 @@
+.program {
+    float: left;
+    margin-right: 10px;
+    background-color: blueviolet;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}

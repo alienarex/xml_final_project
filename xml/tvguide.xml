@@ -1,20 +1,18 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../transformers/xhtml_tvguide.xsl" ?>
 
-<tvguide xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../validators/tvguide.xsd">
+<tvguide>
 	<tv generator-info-name="Vind 2.53.1" generator-info-url="https://xmltv.se">
 		<programme channel="disneychannel.com" start="20191103040000 +0000" stop="20191103042500 +0000" clumpidx="0/1">
 			<title lang="en">PJ Masks</title>
-			<desc lang="en">
-Måntjejen gör en ondskefull blomma! Gecko blir distraherad.
-        </desc>
+			<desc lang="en">Måntjejen gör en ondskefull blomma! Gecko blir distraherad.</desc>
 			<category lang="en">series</category>
 			<category lang="en">Animation</category>
 			<episode-num system="xmltv_ns">0.22.</episode-num>
 		</programme>
 		<programme channel="disneychannel.com" start="20191103042500 +0000" stop="20191103043500 +0000" clumpidx="0/1">
 			<title lang="en">Henry Hugglemonster</title>
-			<desc lang="en">
-I den här charmiga animerade serien, baserad på Niamh Sharkeys böcker, träffar vi den livsglada femåringen Henry Krammonster. Han är mellanbarnet i en kärleksfull och livlig monsterfamilj, och visar de unga tittarna hur man kan navigera genom ett aktivt familjeliv.
+			<desc lang="en">I den här charmiga animerade serien, baserad på Niamh Sharkeys böcker, träffar vi den livsglada femåringen Henry Krammonster. Han är mellanbarnet i en kärleksfull och livlig monsterfamilj, och visar de unga tittarna hur man kan navigera genom ett aktivt familjeliv.
         </desc>
 			<category lang="en">series</category>
 			<episode-num system="xmltv_ns">0.15.</episode-num>
@@ -29,57 +27,104 @@ Häng med Leon när han skapar unika saker och inspirerande konst i den andra s�
 		</programme>
 	</tv>
 	<tv generator-info-name="Vind 2.53.1" generator-info-url="https://xmltv.se">
-		<programme channel="emotion.cmore.se" start="20191109040000 +0000" stop="20191109045500 +0000" clumpidx="0/1">
-			<title lang="sv">Blue bloods</title>
-			<sub-title>Close Calls</sub-title>
+		<programme channel="action.film.viasat.se" start="20191105050000 +0000" stop="20191105065800 +0000" clumpidx="0/1">
+			<title lang="sv">Sahara</title>
 			<desc lang="sv">
-Kriminalserie om familjen Reagan, som alla arbetar inom rättssystemet. Pappa Frank Reagan är New Yorks polismästare och styr sin avdelning lika diplomatiskt som sin familj. Han gör allt för att de ska hålla ihop, men det är inte alltid så lätt. Danny upptäcker att hans svåger Jimmy har samröre med maffian. Han tvingar därför Jimmy att hjälpa Baez med utredningen för att fälla maffian. Erin fortsätter utredningen mot Anthonys gamla partner.
-        </desc>
+    Äventyraren Dirk Pitt, åker på sitt livs skattjakt i Västafrikas farliga öken. Tillsammans med sin kompis Al, försöker de hitta ett gammalt spökskepp som sägs ha en värdefull skatt ombord.
+    </desc>
 			<credits>
-				<actor>Tom Selleck</actor>
-				<actor>Donnie Wahlberg</actor>
-				<actor>Bridget Moynahan</actor>
-				<actor>Will Estes</actor>
-				<actor>Len Cariou</actor>
-				<actor>Amy Carlson</actor>
-				<actor>Marisa Ramirez</actor>
-				<actor>Sami Gayle</actor>
-				<actor>Vanessa Ray</actor>
+				<director>Breck Eisner</director>
+				<actor>Matthew McConaughey</actor>
+				<actor>Penelope Cruz</actor>
+				<actor>Jude Akuwidike</actor>
+				<actor>Rakie Ayola</actor>
+				<actor>Robert Cavanah</actor>
 			</credits>
-			<category lang="en">series</category>
-			<category lang="en">Drama</category>
-			<episode-num system="xmltv_ns">7.16.</episode-num>
+			<category lang="en">movie</category>
+			<category lang="en">Action</category>
+			<category lang="en">Adventure</category>
 		</programme>
-		<programme channel="emotion.cmore.se" start="20191109045500 +0000" stop="20191109055500 +0000" clumpidx="0/1">
-			<title lang="sv">Kronofogden knackar på</title>
-			<sub-title>Can't Pay We'll Take It Away</sub-title>
+		<programme channel="action.film.viasat.se" start="20191105070000 +0000" stop="20191105082400 +0000" clumpidx="0/1">
+			<title lang="sv">Ufo</title>
 			<desc lang="sv">
-Här följer man kronoinspektörer i deras arbete runt om i Storbritannien. Det blir en nära inblick när de besöker företag och privatpersoner för att utmäta deras skulder. Det är ingen lätt uppgift och de möter personer som är aggressiva, känslosamma och sådana som ljuger dem rakt upp i ansiktet. Stewart och Iain hamnar i en het situation när en gäldenärs son hotar med att bränna upp hyreslägenheten de vräks ur. Brian och Del tvingas ta till oortodoxa metoder när de får svårt att hitta en man som är skyldig en uthyrare en del pengar.
-        </desc>
+    Oförklarliga fenomen har i decennier mörkats av USA:s regering – fram till nu. En ung student, hans flickvän och en matteprofessor dyker in i mysteriet, samtidigt som FBI flåsar dem i nacken.
+    </desc>
+			<credits>
+				<director>Ryan Eslinger</director>
+				<actor>Alex Sharp</actor>
+				<actor>Gillian Anderson</actor>
+				<actor>Ella Purnell</actor>
+				<actor>Benjamin Beatty</actor>
+				<actor>Cece Abbey</actor>
+			</credits>
+			<category lang="en">movie</category>
+			<category lang="en">Action</category>
+			<category lang="en">Science-Fiction</category>
+		</programme>
+		<programme channel="action.film.viasat.se" start="20191105090000 +0000" stop="20191105102700 +0000" clumpidx="0/1">
+			<title lang="sv">The Truth Matters</title>
+			<desc lang="sv">
+    I Washington accepterar de flesta journalister George W. Bush argument för Irakkriget. Men en grupp gräver djupare och hittar källor i regeringskretsarna som avslöjar maktmissbruk på hög nivå.
+    </desc>
+			<credits>
+				<director>Rob Reiner</director>
+				<actor>Jessica Biel</actor>
+				<actor>Woody Harrelson</actor>
+				<actor>Milla Jovovich</actor>
+				<actor>Tommy Lee Jones</actor>
+				<actor>James Marsden</actor>
+				<actor>Rob Reiner</actor>
+				<actor>Richard Schiff</actor>
+			</credits>
+			<category lang="en">movie</category>
+			<category lang="en">Drama</category>
+		</programme>
+		<programme channel="action.film.viasat.se" start="20191105110000 +0000" stop="20191105122600 +0000" clumpidx="0/1">
+			<title lang="sv">Superswede: En film om Ronnie Peterson</title>
+			<desc lang="sv">
+    Den svenska racingföraren Ronnie Peterson dog i en våldsam krasch på Monzabanan 1978, vilket chockade en hel värld. I dokumentären medverkar Ronnies dotter Nina Kennedy och några av de största namnen i racingvärlden. Det är en storslagen resa till en tid då Formel 1 innebar glamour, hjältemod och affärer. Dokumentären skildrar också de händelser som lett till att ett dussintals förare mist sina liv på bara ett årtionde.
+    </desc>
+			<credits>
+				<director>Henrik Jansson-Schweizer</director>
+			</credits>
 			<category lang="en">movie</category>
 			<category lang="en">Documentary</category>
-			<episode-num system="xmltv_ns">3.2.</episode-num>
 		</programme>
-		<programme channel="emotion.cmore.se" start="20191109055500 +0000" stop="20191109065500 +0000" clumpidx="0/1">
-			<title lang="sv">Dolph Lundgrens Take the tower</title>
+		<programme channel="action.film.viasat.se" start="20191105130000 +0000" stop="20191105143400 +0000" clumpidx="0/1">
+			<title lang="sv">A-X-L</title>
 			<desc lang="sv">
-Ikoniske Hollywoodskurken Dolph Lundgren ställer team av vänner och familj inför spännande utmaningar baserade på filmvärldens bästa actionfilmer. För varje utmaning de klarar tar de sig närmare Dolph i toppen av tornet och den åtråvärda vinsten. Programstart. Adrenalinet pumpar hos första gänget ut att ta sig an Hollywoodhunken Dolph Lundgrens torn. Tävlingstokige Jake från södra Wales har med sig sin pappa, bror, och pojkvän i kampen genom pulshöjande utmaningar för att ta över skyskrapan.
-        </desc>
-			<category lang="en">series</category>
-			<episode-num system="xmltv_ns">0.0.</episode-num>
-		</programme>
-		<programme channel="emotion.cmore.se" start="20191109065500 +0000" stop="20191109090000 +0000" clumpidx="0/1">
-			<title lang="sv">Sändningsuppehåll</title>
-			<sub-title lang="sv">Sändningsuppehåll</sub-title>
+    Miles möter A.X.L., en modern militärhund med artificiell intelligens, och de blir vänner. Men A.X.L.s skapare är på desperat jakt efter honom och Miles måste göra allt för att stoppa det.
+    </desc>
+			<credits>
+				<director>Oliver Daly</director>
+				<actor>Alex Neustaedter</actor>
+				<actor>Becky G</actor>
+				<actor>Alex MacNicoll</actor>
+				<actor>Dominic Rains</actor>
+				<actor>Thomas Jane</actor>
+				<actor>Lou Taylor Pucci</actor>
+			</credits>
 			<category lang="en">movie</category>
+			<category lang="en">Action</category>
+			<category lang="en">Adventure</category>
 		</programme>
-		<programme channel="emotion.cmore.se" start="20191109090000 +0000" stop="20191109100000 +0000" clumpidx="0/1">
-			<title lang="sv">Dolph Lundgrens Take the tower</title>
+		<programme channel="action.film.viasat.se" start="20191105145000 +0000" stop="20191105164100 +0000" clumpidx="0/1">
+			<title lang="sv">Robin Hood</title>
 			<desc lang="sv">
-Ikoniske Hollywoodskurken Dolph Lundgren ställer team av vänner och familj inför spännande utmaningar baserade på filmvärldens bästa actionfilmer. För varje utmaning de klarar tar de sig närmare Dolph i toppen av tornet och den åtråvärda vinsten. Dolph Lundgren utmanas av actionfilmfantasten Kirsty tillsammans med dottern Lana och syskonbarnen Ronnie och Michael från Glasgow. Men tornet med alla dess utmaningar visar sig svårt att övervinna, hur långt kommer gänget att nå?
-        </desc>
-			<category lang="en">series</category>
-			<episode-num system="xmltv_ns">0.2.</episode-num>
+    Den krigshärdade korsriddaren Robin av Loxley (Taron Egerton) och hans moriske följeslagare (Jamie Foxx) drar igång ett djärvt uppror mot den korrumperade engelska kronan. Som adelsman på dagen och som rättvisans förkämpe "The Hood" på natten måste Robin offra allt för att rädda Nottinghams invånare och utkräva sin hämnd. Filmen är ett nervpirrande och actionspäckat äventyr med storslagna bataljscener, makalöst välkoreograferade kampscener och tidlös romantik.
+    </desc>
+			<credits>
+				<director>Otto Bathurst</director>
+				<actor>Taron Egerton</actor>
+				<actor>Jamie Foxx</actor>
+				<actor>Ben Mendelsohn</actor>
+				<actor>Eve Hewson</actor>
+				<actor>Jamie Dornan</actor>
+				<actor>Paul Anderson</actor>
+			</credits>
+			<category lang="en">movie</category>
+			<category lang="en">Action</category>
+			<category lang="en">Adventure</category>
 		</programme>
 	</tv>
 	<tv generator-info-name="Vind 2.53.1" generator-info-url="https://xmltv.se">

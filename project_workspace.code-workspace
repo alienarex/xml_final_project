@@ -11,6 +11,15 @@
 		},
 		{
 			"path": "vectors"
+		},
+		{
+			"path": "transformers"
+		},
+		{
+			"path": "xhtml"
+		},
+		{
+			"path": "css"
 		}
 	]
 }

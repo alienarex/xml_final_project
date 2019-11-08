@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<?xml-stylesheet type="text/xsl" href="xslsheet.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="xmltv.xsl" ?>
 
 <collection>
-    <doc filename="disneychannel.xml">disneychannel.xml</doc>
-    <doc filename="viasataction.xml">emotion_cmore.xml</doc>
-    <doc filename="tv4_fakta.xml">tv4_fakta.xml</doc>
+    <doc filename="disneychannel.xml" logo="../vectors/disneychannel.svg" />
+    <doc filename="viasataction.xml" logo="../vectors/tv4_fakta.svg" />
+    <doc filename="tv4_fakta.xml" logo="../vectors/viasataction.svg" />
 </collection>

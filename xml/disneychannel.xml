@@ -5,17 +5,14 @@
 <tv generator-info-name="Vind 2.53.1" generator-info-url="https://xmltv.se">
     <programme channel="disneychannel.com" start="20191103040000 +0000" stop="20191103042500 +0000">
         <title lang="en">PJ Masks</title>
-        <desc lang="en">
-Måntjejen gör en ondskefull blomma! Gecko blir distraherad.
-        </desc>
+        <desc lang="en">Måntjejen gör en ondskefull blomma! Gecko blir distraherad.</desc>
         <category lang="en">series</category>
         <category lang="en">Animation</category>
         <episode-num system="xmltv_ns">0.22.</episode-num>
     </programme>
     <programme channel="disneychannel.com" start="20191103042500 +0000" stop="20191103043500 +0000">
         <title lang="en">Henry Hugglemonster</title>
-        <desc lang="en">
-I den här charmiga animerade serien, baserad på Niamh Sharkeys böcker, träffar vi den livsglada femåringen Henry Krammonster. Han är mellanbarnet i en kärleksfull och livlig monsterfamilj, och visar de unga tittarna hur man kan navigera genom ett aktivt familjeliv.
+        <desc lang="en">I den här charmiga animerade serien, baserad på Niamh Sharkeys böcker, träffar vi den livsglada femåringen Henry Krammonster. Han är mellanbarnet i en kärleksfull och livlig monsterfamilj, och visar de unga tittarna hur man kan navigera genom ett aktivt familjeliv.
         </desc>
         <category lang="en">series</category>
         <episode-num system="xmltv_ns">0.15.</episode-num>

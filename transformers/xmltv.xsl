@@ -7,12 +7,12 @@
     channel name does not shows in created xml. think it is the use thing since 
     channel does not have any attribute named id but it can be that it is created here..
     trired... can't brain... need sleep -->
-    <xsl:key name="channel" match="/tv/programme" use="@id" />
+    <!-- <xsl:key name="channel" match="/tv/programme" use="@id" /> -->
 
     <xsl:template match="/">
         <tvguide>
             <xsl:for-each select="collection/doc">
-                <xsl:apply-templates select="document(@filename)/tv"/>
+                <xsl:apply-templates select="document(@filename)/tv" />
             </xsl:for-each>
         </tvguide>
     </xsl:template>
