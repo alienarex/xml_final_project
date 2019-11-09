@@ -16,15 +16,27 @@ th,
 tr {
     background: burlywood;
     border: 1px solid black;
-    border-collapse: collapse;
 }
 
+#total-channel-info th {
+    align-content: center;
+    position: relative;
+}
 
-/* 
-html {
-     display: table; 
-    margin: auto;
-} */
+td {
+    border: black;
+}
+
+#program-time {
+    float: left;
+    position: absolute;
+}
+
+#program-title {
+    float: right;
+    overflow-wrap: break-word;
+    position: absolute;
+}
 
 .logo {
     height: 100%;
