@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../transformers/xhtml_tvguide.xsl" ?>
 
+<!-- Generated from xmltv.xsl -->
 <tvguide>
 	<tv generator-info-name="Vind 2.53.1" generator-info-url="https://xmltv.se">
 		<programme channel="disneychannel.com" start="20191103040000 +0000" stop="20191103042500 +0000" clumpidx="0/1">
@@ -39,7 +40,7 @@ Häng med Leon när han skapar unika saker och inspirerande konst i den andra s�
 				<actor>Jude Akuwidike</actor>
 				<actor>Rakie Ayola</actor>
 				<actor>Robert Cavanah</actor>
-			</credits>
+			</credits>i
 			<category lang="en">movie</category>
 			<category lang="en">Action</category>
 			<category lang="en">Adventure</category>

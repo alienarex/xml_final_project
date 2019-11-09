@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <?xml-stylesheet type="text/xsl" href="xmltv.xsl" ?>
 
+<!-- source: http://web.uvic.ca/~mholmes/dhoxss2013/handouts/collection_function.pdf -->
+
 <collection>
     <doc filename="disneychannel.xml" logo="../vectors/disneychannel.svg" />
     <doc filename="viasataction.xml" logo="../vectors/tv4_fakta.svg" />

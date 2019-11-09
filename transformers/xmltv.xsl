@@ -3,12 +3,8 @@
 
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <xsl:output method="xml" />
-    <!-- 
-    channel name does not shows in created xml. think it is the use thing since 
-    channel does not have any attribute named id but it can be that it is created here..
-    trired... can't brain... need sleep -->
-    <!-- <xsl:key name="channel" match="/tv/programme" use="@id" /> -->
 
+    <!-- XSLT for combine all current xml files to one tvguide -->
     <xsl:template match="/">
         <tvguide>
             <xsl:for-each select="collection/doc">
@@ -20,16 +16,13 @@
     <xsl:template match="tv">
         <xsl:copy>
             <xsl:apply-templates select="@*" />
-            <!-- <xsl:apply-templates select="channel">
-                <xsl:sort select="substring-before(display-name[1],'')" data-type="number" />
-            </xsl:apply-templates> -->
             <xsl:apply-templates select="programme">
                 <xsl:sort select="@start" />
-                <!-- <xsl:sort select="substring-before(key('channel',@channel)/display-name[1],' ')" data-type="number" /> -->
             </xsl:apply-templates>
         </xsl:copy>
     </xsl:template>
 
+    <!-- Creates node tvguide. if there're attributes in it they're copied into the generated xml tvguide -->
     <xsl:template match="tvguide">
         <xsl:copy>
             <xsl:attribute name="id">
@@ -42,14 +35,17 @@
 
     <xsl:template match="programme">
         <xsl:copy>
+            <!-- creates attribute channel and passing value for programme into generated xml -->
             <xsl:attribute name="channel">
                 <xsl:value-of select="@channel" />
             </xsl:attribute>
+            <!-- creates attribute or node for siblings or children if attribute name isn't channel (as that value is extracted above -->
             <xsl:apply-templates select="@*[not(name() = 'channel')]" />
             <xsl:apply-templates select="node()" />
         </xsl:copy>
     </xsl:template>
 
+    <!-- creates node or a its valuenodes atribude and passing  -->
     <xsl:template match="node()|@*">
         <xsl:copy>
             <xsl:apply-templates select="@*" />

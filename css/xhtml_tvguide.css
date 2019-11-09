@@ -1,26 +1,42 @@
-.program {
+/* .program {
     float: left;
     margin-right: 10px;
     background-color: blueviolet;
+} */
+
+body {
+    display: table-cell;
+    /* vertical-align: middle; */
+    align-content: center;
+    display: inline;
 }
 
 table,
 th,
-td {
+tr {
+    background: burlywood;
     border: 1px solid black;
+    border-collapse: collapse;
 }
 
-html,
-body {
-    height: 100%;
-}
 
+/* 
 html {
-    display: table;
+     display: table; 
     margin: auto;
+} */
+
+.logo {
+    height: 100%;
+    width: 100%;
 }
 
-body {
-    display: table-cell;
-    vertical-align: middle;
+#id-logo {
+    height: 70px;
+    width: 70px;
+}
+
+#total-channel-info {
+    float: left;
+    padding: 3%;
 }
