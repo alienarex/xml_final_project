@@ -2,27 +2,205 @@
 <!-- <?xml-stylesheet type="text/xsl" href="xmltv.xsl"?> -->
 <!DOCTYPE tv SYSTEM "..\xmltv-master\xmltv-master/xmltv.dtd">
 
-<tv generator-info-name="Vind 2.53.1" generator-info-url="https://xmltv.se">
-    <programme channel="disneychannel.com" start="20191103040000 +0000" stop="20191103042500 +0000">
-        <title lang="en">PJ Masks</title>
-        <desc lang="en">Måntjejen gör en ondskefull blomma! Gecko blir distraherad.</desc>
+<tv generator-info-name="Vind 2.55.0" generator-info-url="https://xmltv.se">
+    <programme channel="disneychannel.se" start="20191115040000 +0000" stop="20191115042500 +0000">
+        <title lang="sv">Pyjamashjältarna</title>
+        <desc lang="sv">Pyjamashjältarna reser till månen!</desc>
         <category lang="en">series</category>
         <category lang="en">Animation</category>
-        <episode-num system="xmltv_ns">0.22.</episode-num>
-    </programme>
-    <programme channel="disneychannel.com" start="20191103042500 +0000" stop="20191103043500 +0000">
-        <title lang="en">Henry Hugglemonster</title>
-        <desc lang="en">I den här charmiga animerade serien, baserad på Niamh Sharkeys böcker, träffar vi den livsglada femåringen Henry Krammonster. Han är mellanbarnet i en kärleksfull och livlig monsterfamilj, och visar de unga tittarna hur man kan navigera genom ett aktivt familjeliv.
-        </desc>
-        <category lang="en">series</category>
-        <episode-num system="xmltv_ns">0.15.</episode-num>
-    </programme>
-    <programme channel="disneychannel.com" start="20191103043500 +0000" stop="20191103050000 +0000">
-        <title lang="en">Art Attack</title>
-        <desc lang="en">
-Häng med Leon när han skapar unika saker och inspirerande konst i den andra säsongen av Disney Junior-favoriten Art Attack! Serien är för hela familjen och uppmuntrar barn i alla åldrar att prova på och utveckla sina konstnärliga färdigheter.
-        </desc>
-        <category lang="en">series</category>
         <episode-num system="xmltv_ns">1.34.</episode-num>
+    </programme>
+    <programme channel="disneychannel.se" start="20191115042500 +0000" stop="20191115043500 +0000">
+        <title lang="sv">Henry Krammonster</title>
+        <desc lang="sv">
+    I den här charmiga animerade serien, baserad på Niamh Sharkeys böcker, träffar vi den livsglada femåringen Henry Krammonster. Han är mellanbarnet i en kärleksfull och livlig monsterfamilj, och visar de unga tittarna hur man kan navigera genom ett aktivt familjeliv.
+    </desc>
+        <category lang="en">series</category>
+        <episode-num system="xmltv_ns">0.27.</episode-num>
+    </programme>
+    <programme channel="disneychannel.se" start="20191115043500 +0000" stop="20191115050000 +0000">
+        <title lang="sv">Art Attack</title>
+        <desc lang="sv">
+    Häng med Leon när han skapar unika saker och inspirerande konst i den andra säsongen av Disney Junior-favoriten Art Attack! Serien är för hela familjen och uppmuntrar barn i alla åldrar att prova på och utveckla sina konstnärliga färdigheter.
+    </desc>
+        <category lang="en">series</category>
+        <episode-num system="xmltv_ns">1.46.</episode-num>
+    </programme>
+    <programme channel="disneychannel.se" start="20191115050000 +0000" stop="20191115052000 +0000">
+        <title lang="sv">Dalmatinervägen 101</title>
+        <desc lang="sv">
+    ”Säkerheten först”-Dylan oroar sig när showbiz-trillingarna ‘Trippel D’ utför en rad farliga tick.
+    </desc>
+        <category lang="en">series</category>
+        <category lang="en">Animation</category>
+        <episode-num system="xmltv_ns">0.20.</episode-num>
+    </programme>
+    <programme channel="disneychannel.se" start="20191115052000 +0000" stop="20191115054000 +0000">
+        <title lang="sv">Sadie Sparks</title>
+        <desc lang="sv">
+    Trolleriväktarna sätter upp ett test, gropfrätning med Gilbert och Sadie mot Blaine och Cornelius.
+    </desc>
+        <category lang="en">series</category>
+        <category lang="en">Animation</category>
+        <episode-num system="xmltv_ns">0.2.</episode-num>
+    </programme>
+    <programme channel="disneychannel.se" start="20191115054000 +0000" stop="20191115060000 +0000">
+        <title lang="sv">Familjen Green i Storstan</title>
+        <desc lang="sv">Familjen Green flyttar från landet till storstan.</desc>
+        <category lang="en">series</category>
+        <category lang="en">Animation</category>
+        <episode-num system="xmltv_ns">0.31.</episode-num>
+    </programme>
+    <programme channel="disneychannel.se" start="20191115060000 +0000" stop="20191115063100 +0000">
+        <title lang="sv">
+            <![CDATA[ Miraculous: Ladybug & Cat Noir på äventyr]]>
+        </title>
+        <desc lang="sv">
+    Ladybug och Cat Noir har tappat minnet och en mystisk skurk lurar i Paris. Kommer våra hjältar att kunna besegra Oblivio och förvandla honom till ett vagt minne?
+    </desc>
+        <category lang="en">series</category>
+        <category lang="en">Animation</category>
+        <episode-num system="xmltv_ns">2.61.</episode-num>
+    </programme>
+    <programme channel="disneychannel.se" start="20191115063100 +0000" stop="20191115070000 +0000">
+        <title lang="sv">
+            <![CDATA[ Miraculous: Ladybug & Cat Noir på äventyr]]>
+        </title>
+        <desc lang="sv">
+    Tom blir akumatiserad och förvandlas till Varfar, en stor, monstruös vakthundsman som låser in Marinette i ett magiskt fängelse för att skydda henne från omvärlden. Kommer Marinette att klara av att stoppa sin egen far?
+    </desc>
+        <category lang="en">series</category>
+        <category lang="en">Animation</category>
+        <episode-num system="xmltv_ns">2.57.</episode-num>
+    </programme>
+    <programme channel="disneychannel.se" start="20191115070000 +0000" stop="20191115073100 +0000">
+        <title lang="sv">Harley i mitten</title>
+        <desc lang="sv">
+    Det är quince-dags! Harley får hjälp av småttingarna med att färdiggöra sin önskelista innan hon blir vuxen.
+    </desc>
+        <category lang="en">series</category>
+        <episode-num system="xmltv_ns">2.51.</episode-num>
+    </programme>
+    <programme channel="disneychannel.se" start="20191115073100 +0000" stop="20191115080000 +0000">
+        <title lang="sv">Harley i mitten</title>
+        <desc lang="sv">Flickorna måste dela rum med Daphne.</desc>
+        <category lang="en">series</category>
+        <episode-num system="xmltv_ns">1.30.</episode-num>
+    </programme>
+    <programme channel="disneychannel.se" start="20191115080000 +0000" stop="20191115083100 +0000">
+        <title lang="sv">Bunk'd</title>
+        <desc lang="sv">
+    Efter att Gwen av misstag krossat en ruta, trasslar hon och Destiny in sig i ett nät av lögner. Noah utmanar Ava på att vara öppnare mot saker och ting genom att saga “ja, och-“ till möjligheterna.
+    </desc>
+        <category lang="en">series</category>
+        <episode-num system="xmltv_ns">3.60.</episode-num>
+    </programme>
+    <programme channel="disneychannel.se" start="20191115083100 +0000" stop="20191115090000 +0000">
+        <title lang="sv">Bunk'd</title>
+        <desc lang="sv">Kollobarnen firar Lous tioårsjubileum.</desc>
+        <category lang="en">series</category>
+        <episode-num system="xmltv_ns">2.50.</episode-num>
+    </programme>
+    <programme channel="disneychannel.se" start="20191115090000 +0000" stop="20191115093100 +0000">
+        <title lang="sv">Jessie</title>
+        <desc lang="sv">
+    Efter att Ravi använt Bertrams kaffebryggare för att göra Kiplings krypte, ordnar han en ny, datoriserad kaffebryggare åt Bertram. Samtidigt, längtar Jessie, Emma och Zuri efter att få gå på Justin Timberlake-konserten, men när Jessie bara får ett backstage-pass, testas familjebanden.
+    </desc>
+        <category lang="en">series</category>
+        <episode-num system="xmltv_ns">2.80.</episode-num>
+    </programme>
+    <programme channel="disneychannel.se" start="20191115093100 +0000" stop="20191115100000 +0000">
+        <title lang="sv">Jessie</title>
+        <desc lang="sv">
+    Jessie återvänder, redo att fokusera på sin skådespelarkarriär och börja skolan igen. Ross-barnen bli kanske äldre, men de behöver fortfarande sin barnflicka, och barnflickan behöver dem.
+    </desc>
+        <category lang="en">series</category>
+        <episode-num system="xmltv_ns">3.81.</episode-num>
+    </programme>
+    <programme channel="disneychannel.se" start="20191115100000 +0000" stop="20191115103100 +0000">
+        <title lang="sv">Raven's Home</title>
+        <desc lang="sv">
+    Gänget fullföljer sina kreativa drömmar! Booker, Nia och Tess bildar ett band medan Raven är fast besluten att lansera sin modekollektion och Chelsea har hittat rätt som livscoach.
+    </desc>
+        <category lang="en">series</category>
+        <episode-num system="xmltv_ns">2.39.</episode-num>
+    </programme>
+    <programme channel="disneychannel.se" start="20191115103100 +0000" stop="20191115110000 +0000">
+        <title lang="sv">Raven's Home</title>
+        <desc lang="sv">
+    Gänget fullföljer sina kreativa drömmar! Booker, Nia och Tess bildar ett band medan Raven är fast besluten att lansera sin modekollektion och Chelsea har hittat rätt som livscoach.
+    </desc>
+        <category lang="en">series</category>
+        <episode-num system="xmltv_ns">2.40.</episode-num>
+    </programme>
+    <programme channel="disneychannel.se" start="20191115110000 +0000" stop="20191115113100 +0000">
+        <title lang="sv">K.C. Hemlig agent</title>
+        <desc lang="sv">K.C måste rädda Ernie från en virtuell värld.</desc>
+        <category lang="en">series</category>
+        <episode-num system="xmltv_ns">1.51.</episode-num>
+    </programme>
+    <programme channel="disneychannel.se" start="20191115113100 +0000" stop="20191115120000 +0000">
+        <title lang="sv">K.C. Hemlig agent</title>
+        <desc lang="sv">
+    K.C. Är osäker på om hon sett sin kusin Abby eller inte.
+    </desc>
+        <category lang="en">series</category>
+        <episode-num system="xmltv_ns">1.53.</episode-num>
+    </programme>
+    <programme channel="disneychannel.se" start="20191115120000 +0000" stop="20191115123100 +0000">
+        <title lang="sv">Harley i mitten</title>
+        <desc lang="sv">
+    När halva familjen är borta tänker Harley passa på att ha ett pyjamasparty och titta på en passerande komet uppe på taket med sina vänner.
+    </desc>
+        <category lang="en">series</category>
+        <episode-num system="xmltv_ns">0.7.</episode-num>
+    </programme>
+    <programme channel="disneychannel.se" start="20191115123100 +0000" stop="20191115130000 +0000">
+        <title lang="sv">Harley i mitten</title>
+        <desc lang="sv">
+    Harley, Rachel, Georgie och Ethan går på skolans Vårbal, medan Lewie och Beast tältar i trädgården.
+    </desc>
+        <category lang="en">series</category>
+        <episode-num system="xmltv_ns">1.27.</episode-num>
+    </programme>
+    <programme channel="disneychannel.se" start="20191115130000 +0000" stop="20191115133100 +0000">
+        <title lang="sv">Bunk'd</title>
+        <desc lang="sv">
+    Emma och Jorge hjälper Ravi när han börjar dejta en tjej som är sin totala motsats. Samtidigt, försöker Zuri och Tiffany återföra ett örnägg till sitt bo.
+    </desc>
+        <category lang="en">series</category>
+        <episode-num system="xmltv_ns">0.19.</episode-num>
+    </programme>
+    <programme channel="disneychannel.se" start="20191115133100 +0000" stop="20191115140000 +0000">
+        <title lang="sv">Bunk'd</title>
+        <desc lang="sv">Kollobarnen får höra talas om Kikiwaka-spöket.</desc>
+        <category lang="en">series</category>
+        <episode-num system="xmltv_ns">0.20.</episode-num>
+    </programme>
+    <programme channel="disneychannel.se" start="20191115140000 +0000" stop="20191115143100 +0000">
+        <title lang="sv">Ducktales</title>
+        <desc lang="sv">Joakim blir som besatt av några saknade mynt.</desc>
+        <category lang="en">series</category>
+        <category lang="en">Animation</category>
+        <episode-num system="xmltv_ns">1.35.</episode-num>
+    </programme>
+    <programme channel="disneychannel.se" start="20191115143100 +0000" stop="20191115150000 +0000">
+        <title lang="sv">
+            <![CDATA[ Miraculous: Ladybug & Cat Noir på äventyr]]>
+        </title>
+        <desc lang="sv">
+    Ninos lillebror blir akumatiserad och förvandlas till Julmonstret som skickar ut gigantiska leksaker som får löpa amok i ett snötäckt Paris på jakt efter tomten.
+    </desc>
+        <category lang="en">series</category>
+        <category lang="en">Animation</category>
+        <episode-num system="xmltv_ns">2.63.</episode-num>
+    </programme>
+    <programme channel="disneychannel.se" start="20191115150000 +0000" stop="20191115153100 +0000">
+        <title lang="sv">Bunk'd</title>
+        <desc lang="sv">
+    Efter att Gwen av misstag krossat en ruta, trasslar hon och Destiny in sig i ett nät av lögner. Noah utmanar Ava på att vara öppnare mot saker och ting genom att saga “ja, och-“ till möjligheterna.
+    </desc>
+        <category lang="en">series</category>
+        <episode-num system="xmltv_ns">3.60.</episode-num>
     </programme>
 </tv>

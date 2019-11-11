@@ -1,54 +1,93 @@
-/* .program {
-    float: left;
-    margin-right: 10px;
-    background-color: blueviolet;
-} */
-
 body {
     display: table-cell;
-    /* vertical-align: middle; */
-    align-content: center;
     display: inline;
+    background: #BCCCD1;
 }
+
+
+/* section tag encapsulate complete tvguide content. Makes it possible to continue development without effect layout of tablau */
+
+#tv-guide {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+
+/* 
+** UNDER DEVELOPMENT **
+ div to contain XMLTV - logo. Contains only text now
+*/
+
+#xml-tv-logo {
+    height: 100px;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-family: fantasy;
+    font-weight: bolder;
+    font-size: 35px;
+}
+
+
+/* controls visulazation of channels logo and programme info */
+
+#total-channel-info {
+    float: left;
+    padding: 3%;
+    min-width: 300px;
+}
+
+
+/* Table containing tv tablau */
+
+table {
+    width: 100%;
+    border: 0.5px solid #24344C;
+}
+
+
+/* Set background colour and height to entire row for program */
 
 table,
 th,
 tr {
-    background: burlywood;
-    border: 1px solid black;
+    background: #D3D3D3;
+    height: 25px;
 }
 
-#total-channel-info th {
-    align-content: center;
-    position: relative;
+
+/* set style to table head inside <div> total-channel-info */
+
+#total-channel-info,
+th {
+    text-align: left;
+    height: 40px;
+    width: 100px;
+    border-collapse: collapse;
+    font-size: 20px;
 }
 
-td {
-    border: black;
-}
 
-#program-time {
-    float: left;
-    position: absolute;
-}
+/* set style to tables row for <div> program-title. affects entire row, so <div> program-time affects aswell*/
 
+tr,
 #program-title {
-    float: right;
-    overflow-wrap: break-word;
-    position: absolute;
+    font-size: 14px;
+    border: 0.5px solid black;
+    font-size: 16px;
 }
+
+
+/* sets img logo size to take up all space. Need to be put in sourunding <div> for set the size that logo will have */
 
 .logo {
     height: 100%;
     width: 100%;
 }
 
+
+/* <div> sourounding img .logo to set the size */
+
 #id-logo {
     height: 70px;
     width: 70px;
-}
-
-#total-channel-info {
-    float: left;
-    padding: 3%;
 }

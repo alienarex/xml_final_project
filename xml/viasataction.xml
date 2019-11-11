@@ -3,25 +3,92 @@
 <!DOCTYPE tv SYSTEM "..\xmltv-master\xmltv-master/xmltv.dtd">
 
 
-<tv generator-info-name="Vind 2.53.1" generator-info-url="https://xmltv.se">
-    <programme channel="action.film.viasat.se" start="20191105050000 +0000" stop="20191105065800 +0000">
-        <title lang="sv">Sahara</title>
+<tv generator-info-name="Vind 2.55.0" generator-info-url="https://xmltv.se">
+    <programme channel="action.film.viasat.se" start="20191115070000 +0000" stop="20191115082900 +0000">
+        <title lang="sv">Just Getting Started</title>
         <desc lang="sv">
-    Äventyraren Dirk Pitt, åker på sitt livs skattjakt i Västafrikas farliga öken. Tillsammans med sin kompis Al, försöker de hitta ett gammalt spökskepp som sägs ha en värdefull skatt ombord.
+    En pensionerad FBI-agent och en före detta advokat med vittnesskydd måste lägga sin golfbanerivalitet åt sidan och tillsammans hindra maffian från att döda dem.
     </desc>
         <credits>
-            <director>Breck Eisner</director>
-            <actor>Matthew McConaughey</actor>
-            <actor>Penelope Cruz</actor>
-            <actor>Jude Akuwidike</actor>
-            <actor>Rakie Ayola</actor>
-            <actor>Robert Cavanah</actor>
+            <director>Ron Shelton</director>
+            <actor>Morgan Freeman</actor>
+            <actor>Tommy Lee Jones</actor>
+            <actor>Rene Russo</actor>
+            <actor>Joe Pantoliano</actor>
+            <actor>Glenne Headley</actor>
         </credits>
         <category lang="en">movie</category>
         <category lang="en">Action</category>
-        <category lang="en">Adventure</category>
+        <category lang="en">Comedy</category>
     </programme>
-    <programme channel="action.film.viasat.se" start="20191105070000 +0000" stop="20191105082400 +0000">
+    <programme channel="action.film.viasat.se" start="20191115090000 +0000" stop="20191115103800 +0000">
+        <title lang="sv">Searching</title>
+        <desc lang="sv">
+    När Davids dotter försvinner och polisen inte lyckas hitta några som helst ledtrådar tar han saken i egna händer och letar där hemligheter finns: i datorn.
+    </desc>
+        <credits>
+            <director>Aneesh Chaganty</director>
+            <actor>John Cho</actor>
+            <actor>Sara Sohn</actor>
+            <actor>Alex Jayne Go</actor>
+            <actor>Megan Liu</actor>
+            <actor>Kya Dawn Lau</actor>
+        </credits>
+        <category lang="en">movie</category>
+        <category lang="en">Thriller</category>
+        <category lang="en">Mystery</category>
+    </programme>
+    <programme channel="action.film.viasat.se" start="20191115105000 +0000" stop="20191115124400 +0000">
+        <title lang="sv">I, Tonya</title>
+        <desc lang="sv">
+    Baserat på tidernas största OS-skandal. Lovande konståkaren Tonya Hardings ex-make planerar att bryta benet på hennes konkurrent. Hur mycket kände Tonya egentligen till?
+    </desc>
+        <credits>
+            <director>Craig Gillespie</director>
+            <actor>Margot Robbie</actor>
+            <actor>Sebastian Stan</actor>
+            <actor>Allison Janney</actor>
+            <actor>Julianne Nicholson</actor>
+            <actor>Paul Walter Hauser</actor>
+        </credits>
+        <category lang="en">movie</category>
+        <category lang="en">Drama</category>
+    </programme>
+    <programme channel="action.film.viasat.se" start="20191115125000 +0000" stop="20191115144900 +0000">
+        <title lang="sv">The Vanishing of Sidney Hall</title>
+        <desc lang="sv">
+    Den kontroversiella författaren Sidney Hall blir berömd över en natt efter att ha skrivit en bästsäljande roman. Men trots framgången rasar hans tillvaro samman och han försvinner spårlöst. Nästan ett decennium senare söker en gåtfull detektiv efter den saknade författaren, vars böcker är kopplade till en rad mystiska mordbränder.
+    </desc>
+        <credits>
+            <director>Shawn Christensen</director>
+            <actor>Michelle Monaghan</actor>
+            <actor>Elle Fanning</actor>
+            <actor>Kyle Chandler</actor>
+            <actor>Logan Lerman</actor>
+            <actor>Blake Jenner</actor>
+        </credits>
+        <category lang="en">movie</category>
+        <category lang="en">Drama</category>
+        <category lang="en">Mystery</category>
+    </programme>
+    <programme channel="action.film.viasat.se" start="20191115145500 +0000" stop="20191115165400 +0000">
+        <title lang="sv">Guilty</title>
+        <desc lang="sv">
+    Detta drama är baserat på en av de längsta maffiarättegångarna i amerikansk historia. Jack DiNorscio bestämmer sig för att bli åtalad istället för att tjalla på sin familj och kumpaner. Ingen hade dock förväntat sig att han skulle be att få försvara sig på egen hand...
+    </desc>
+        <credits>
+            <director>Sidney Lumet</director>
+            <actor>Vin Diesel</actor>
+            <actor>Linus Roache</actor>
+            <actor>Peter Dinklage</actor>
+            <actor>Ron Silver</actor>
+            <actor>Alex Rocco</actor>
+        </credits>
+        <category lang="en">movie</category>
+        <category lang="en">Comedy</category>
+        <category lang="en">Crime</category>
+    </programme>
+    <programme channel="action.film.viasat.se" start="20191115170000 +0000" stop="20191115182400 +0000">
         <title lang="sv">Ufo</title>
         <desc lang="sv">
     Oförklarliga fenomen har i decennier mörkats av USA:s regering – fram till nu. En ung student, hans flickvän och en matteprofessor dyker in i mysteriet, samtidigt som FBI flåsar dem i nacken.
@@ -38,69 +105,39 @@
         <category lang="en">Action</category>
         <category lang="en">Science-Fiction</category>
     </programme>
-    <programme channel="action.film.viasat.se" start="20191105090000 +0000" stop="20191105102700 +0000">
-        <title lang="sv">The Truth Matters</title>
+    <programme channel="action.film.viasat.se" start="20191115190000 +0000" stop="20191115205500 +0000">
+        <title lang="sv">Destroyer</title>
         <desc lang="sv">
-    I Washington accepterar de flesta journalister George W. Bush argument för Irakkriget. Men en grupp gräver djupare och hittar källor i regeringskretsarna som avslöjar maktmissbruk på hög nivå.
+    I detta laddade kriminaldrama återfår LA-polisen Erin Bell (Nicole Kidman) kontakten med det kriminella gäng hon för ett tjugotal år sedan infiltrerade undercover tillsammans med partnern Chris (Sebastian Stan, Bucky Barnes i Marvel-filmerna). Att på nytt möta gängmedlemmarna väcker traumatiska minnen av ett uppdrag med katastrofal utgång, och triggar den hämndlystnad som länge förföljt Erin. Hon tvingas åter konfrontera den hänsynslöse gängledaren Silas (Toby Kebbell), samtidigt som hon desperat tacklar sitt livs svåraste uppdrag: att hålla sin sextonåriga dotter från den sortens män hon själv kommit att förakta. Kidmans prestation i filmen Golden Globe-nominerades. För regin står Karyn Kusama.
     </desc>
         <credits>
-            <director>Rob Reiner</director>
-            <actor>Jessica Biel</actor>
-            <actor>Woody Harrelson</actor>
-            <actor>Milla Jovovich</actor>
-            <actor>Tommy Lee Jones</actor>
-            <actor>James Marsden</actor>
-            <actor>Rob Reiner</actor>
-            <actor>Richard Schiff</actor>
+            <director>Karyn Kusama</director>
+            <actor>Nicole Kidman</actor>
+            <actor>Toby Kebbell</actor>
+            <actor>Tatiana Maslany</actor>
+            <actor>Sebastian Stan</actor>
+            <actor>Scoot McNairy</actor>
         </credits>
         <category lang="en">movie</category>
-        <category lang="en">Drama</category>
+        <category lang="en">Thriller</category>
+        <category lang="en">Crime</category>
     </programme>
-    <programme channel="action.film.viasat.se" start="20191105110000 +0000" stop="20191105122600 +0000">
-        <title lang="sv">Superswede: En film om Ronnie Peterson</title>
+    <programme channel="action.film.viasat.se" start="20191115210000 +0000" stop="20191115223600 +0000">
+        <title lang="sv">Blumhouse's Truth or Dare</title>
         <desc lang="sv">
-    Den svenska racingföraren Ronnie Peterson dog i en våldsam krasch på Monzabanan 1978, vilket chockade en hel värld. I dokumentären medverkar Ronnies dotter Nina Kennedy och några av de största namnen i racingvärlden. Det är en storslagen resa till en tid då Formel 1 innebar glamour, hjältemod och affärer. Dokumentären skildrar också de händelser som lett till att ett dussintals förare mist sina liv på bara ett årtionde.
+    En harmlös omgång av “Sanning eller konsekvens” får dödlig utgång när någon, eller något, börjar straffa dem som inte talar sanning eller som vägrar ta konsekvenserna.
     </desc>
         <credits>
-            <director>Henrik Jansson-Schweizer</director>
+            <director>Jeff Wadlow</director>
+            <actor>Lucy Hale</actor>
+            <actor>Tyler Posey</actor>
+            <actor>Violett Beane</actor>
+            <actor>Hayden Szeto</actor>
+            <actor>Sophia Ali</actor>
         </credits>
         <category lang="en">movie</category>
-        <category lang="en">Documentary</category>
+        <category lang="en">Horror</category>
+        <category lang="en">Thriller</category>
     </programme>
-    <programme channel="action.film.viasat.se" start="20191105130000 +0000" stop="20191105143400 +0000">
-        <title lang="sv">A-X-L</title>
-        <desc lang="sv">
-    Miles möter A.X.L., en modern militärhund med artificiell intelligens, och de blir vänner. Men A.X.L.s skapare är på desperat jakt efter honom och Miles måste göra allt för att stoppa det.
-    </desc>
-        <credits>
-            <director>Oliver Daly</director>
-            <actor>Alex Neustaedter</actor>
-            <actor>Becky G</actor>
-            <actor>Alex MacNicoll</actor>
-            <actor>Dominic Rains</actor>
-            <actor>Thomas Jane</actor>
-            <actor>Lou Taylor Pucci</actor>
-        </credits>
-        <category lang="en">movie</category>
-        <category lang="en">Action</category>
-        <category lang="en">Adventure</category>
-    </programme>
-    <programme channel="action.film.viasat.se" start="20191105145000 +0000" stop="20191105164100 +0000">
-        <title lang="sv">Robin Hood</title>
-        <desc lang="sv">
-    Den krigshärdade korsriddaren Robin av Loxley (Taron Egerton) och hans moriske följeslagare (Jamie Foxx) drar igång ett djärvt uppror mot den korrumperade engelska kronan. Som adelsman på dagen och som rättvisans förkämpe "The Hood" på natten måste Robin offra allt för att rädda Nottinghams invånare och utkräva sin hämnd. Filmen är ett nervpirrande och actionspäckat äventyr med storslagna bataljscener, makalöst välkoreograferade kampscener och tidlös romantik.
-    </desc>
-        <credits>
-            <director>Otto Bathurst</director>
-            <actor>Taron Egerton</actor>
-            <actor>Jamie Foxx</actor>
-            <actor>Ben Mendelsohn</actor>
-            <actor>Eve Hewson</actor>
-            <actor>Jamie Dornan</actor>
-            <actor>Paul Anderson</actor>
-        </credits>
-        <category lang="en">movie</category>
-        <category lang="en">Action</category>
-        <category lang="en">Adventure</category>
-    </programme>
+
 </tv>

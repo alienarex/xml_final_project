@@ -1,51 +1,297 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <?xml-stylesheet type="text/xsl" href="../transformers/xhtml_tvguide.xsl" ?>
 
-<!-- Generated from xmltv.xsl -->
+
 <tvguide>
-	<tv generator-info-name="Vind 2.53.1" generator-info-url="https://xmltv.se">
-		<programme channel="disneychannel.com" start="20191103040000 +0000" stop="20191103042500 +0000" clumpidx="0/1">
-			<title lang="en">PJ Masks</title>
-			<desc lang="en">Måntjejen gör en ondskefull blomma! Gecko blir distraherad.</desc>
+	<tv generator-info-name="Vind 2.55.0" generator-info-url="https://xmltv.se">
+		<programme channel="disneychannel.se" start="20191115040000 +0000" stop="20191115042500 +0000" clumpidx="0/1">
+			<title lang="sv">Pyjamashjältarna</title>
+			<desc lang="sv">Pyjamashjältarna reser till månen!</desc>
 			<category lang="en">series</category>
 			<category lang="en">Animation</category>
-			<episode-num system="xmltv_ns">0.22.</episode-num>
-		</programme>
-		<programme channel="disneychannel.com" start="20191103042500 +0000" stop="20191103043500 +0000" clumpidx="0/1">
-			<title lang="en">Henry Hugglemonster</title>
-			<desc lang="en">I den här charmiga animerade serien, baserad på Niamh Sharkeys böcker, träffar vi den livsglada femåringen Henry Krammonster. Han är mellanbarnet i en kärleksfull och livlig monsterfamilj, och visar de unga tittarna hur man kan navigera genom ett aktivt familjeliv.
-        </desc>
-			<category lang="en">series</category>
-			<episode-num system="xmltv_ns">0.15.</episode-num>
-		</programme>
-		<programme channel="disneychannel.com" start="20191103043500 +0000" stop="20191103050000 +0000" clumpidx="0/1">
-			<title lang="en">Art Attack</title>
-			<desc lang="en">
-Häng med Leon när han skapar unika saker och inspirerande konst i den andra säsongen av Disney Junior-favoriten Art Attack! Serien är för hela familjen och uppmuntrar barn i alla åldrar att prova på och utveckla sina konstnärliga färdigheter.
-        </desc>
-			<category lang="en">series</category>
 			<episode-num system="xmltv_ns">1.34.</episode-num>
 		</programme>
-	</tv>
-	<tv generator-info-name="Vind 2.53.1" generator-info-url="https://xmltv.se">
-		<programme channel="action.film.viasat.se" start="20191105050000 +0000" stop="20191105065800 +0000" clumpidx="0/1">
-			<title lang="sv">Sahara</title>
+		<programme channel="disneychannel.se" start="20191115042500 +0000" stop="20191115043500 +0000" clumpidx="0/1">
+			<title lang="sv">Henry Krammonster</title>
 			<desc lang="sv">
-    Äventyraren Dirk Pitt, åker på sitt livs skattjakt i Västafrikas farliga öken. Tillsammans med sin kompis Al, försöker de hitta ett gammalt spökskepp som sägs ha en värdefull skatt ombord.
+    I den här charmiga animerade serien, baserad på Niamh Sharkeys böcker, träffar vi den livsglada femåringen Henry Krammonster. Han är mellanbarnet i en kärleksfull och livlig monsterfamilj, och visar de unga tittarna hur man kan navigera genom ett aktivt familjeliv.
+    </desc>
+			<category lang="en">series</category>
+			<episode-num system="xmltv_ns">0.27.</episode-num>
+		</programme>
+		<programme channel="disneychannel.se" start="20191115043500 +0000" stop="20191115050000 +0000" clumpidx="0/1">
+			<title lang="sv">Art Attack</title>
+			<desc lang="sv">
+    Häng med Leon när han skapar unika saker och inspirerande konst i den andra säsongen av Disney Junior-favoriten Art Attack! Serien är för hela familjen och uppmuntrar barn i alla åldrar att prova på och utveckla sina konstnärliga färdigheter.
+    </desc>
+			<category lang="en">series</category>
+			<episode-num system="xmltv_ns">1.46.</episode-num>
+		</programme>
+		<programme channel="disneychannel.se" start="20191115050000 +0000" stop="20191115052000 +0000" clumpidx="0/1">
+			<title lang="sv">Dalmatinervägen 101</title>
+			<desc lang="sv">
+    ”Säkerheten först”-Dylan oroar sig när showbiz-trillingarna ‘Trippel D’ utför en rad farliga tick.
+    </desc>
+			<category lang="en">series</category>
+			<category lang="en">Animation</category>
+			<episode-num system="xmltv_ns">0.20.</episode-num>
+		</programme>
+		<programme channel="disneychannel.se" start="20191115052000 +0000" stop="20191115054000 +0000" clumpidx="0/1">
+			<title lang="sv">Sadie Sparks</title>
+			<desc lang="sv">
+    Trolleriväktarna sätter upp ett test, gropfrätning med Gilbert och Sadie mot Blaine och Cornelius.
+    </desc>
+			<category lang="en">series</category>
+			<category lang="en">Animation</category>
+			<episode-num system="xmltv_ns">0.2.</episode-num>
+		</programme>
+		<programme channel="disneychannel.se" start="20191115054000 +0000" stop="20191115060000 +0000" clumpidx="0/1">
+			<title lang="sv">Familjen Green i Storstan</title>
+			<desc lang="sv">Familjen Green flyttar från landet till storstan.</desc>
+			<category lang="en">series</category>
+			<category lang="en">Animation</category>
+			<episode-num system="xmltv_ns">0.31.</episode-num>
+		</programme>
+		<programme channel="disneychannel.se" start="20191115060000 +0000" stop="20191115063100 +0000" clumpidx="0/1">
+			<title lang="sv">
+             Miraculous: Ladybug &amp; Cat Noir på äventyr
+        </title>
+			<desc lang="sv">
+    Ladybug och Cat Noir har tappat minnet och en mystisk skurk lurar i Paris. Kommer våra hjältar att kunna besegra Oblivio och förvandla honom till ett vagt minne?
+    </desc>
+			<category lang="en">series</category>
+			<category lang="en">Animation</category>
+			<episode-num system="xmltv_ns">2.61.</episode-num>
+		</programme>
+		<programme channel="disneychannel.se" start="20191115063100 +0000" stop="20191115070000 +0000" clumpidx="0/1">
+			<title lang="sv">
+             Miraculous: Ladybug &amp; Cat Noir på äventyr
+        </title>
+			<desc lang="sv">
+    Tom blir akumatiserad och förvandlas till Varfar, en stor, monstruös vakthundsman som låser in Marinette i ett magiskt fängelse för att skydda henne från omvärlden. Kommer Marinette att klara av att stoppa sin egen far?
+    </desc>
+			<category lang="en">series</category>
+			<category lang="en">Animation</category>
+			<episode-num system="xmltv_ns">2.57.</episode-num>
+		</programme>
+		<programme channel="disneychannel.se" start="20191115070000 +0000" stop="20191115073100 +0000" clumpidx="0/1">
+			<title lang="sv">Harley i mitten</title>
+			<desc lang="sv">
+    Det är quince-dags! Harley får hjälp av småttingarna med att färdiggöra sin önskelista innan hon blir vuxen.
+    </desc>
+			<category lang="en">series</category>
+			<episode-num system="xmltv_ns">2.51.</episode-num>
+		</programme>
+		<programme channel="disneychannel.se" start="20191115073100 +0000" stop="20191115080000 +0000" clumpidx="0/1">
+			<title lang="sv">Harley i mitten</title>
+			<desc lang="sv">Flickorna måste dela rum med Daphne.</desc>
+			<category lang="en">series</category>
+			<episode-num system="xmltv_ns">1.30.</episode-num>
+		</programme>
+		<programme channel="disneychannel.se" start="20191115080000 +0000" stop="20191115083100 +0000" clumpidx="0/1">
+			<title lang="sv">Bunk'd</title>
+			<desc lang="sv">
+    Efter att Gwen av misstag krossat en ruta, trasslar hon och Destiny in sig i ett nät av lögner. Noah utmanar Ava på att vara öppnare mot saker och ting genom att saga “ja, och-“ till möjligheterna.
+    </desc>
+			<category lang="en">series</category>
+			<episode-num system="xmltv_ns">3.60.</episode-num>
+		</programme>
+		<programme channel="disneychannel.se" start="20191115083100 +0000" stop="20191115090000 +0000" clumpidx="0/1">
+			<title lang="sv">Bunk'd</title>
+			<desc lang="sv">Kollobarnen firar Lous tioårsjubileum.</desc>
+			<category lang="en">series</category>
+			<episode-num system="xmltv_ns">2.50.</episode-num>
+		</programme>
+		<programme channel="disneychannel.se" start="20191115090000 +0000" stop="20191115093100 +0000" clumpidx="0/1">
+			<title lang="sv">Jessie</title>
+			<desc lang="sv">
+    Efter att Ravi använt Bertrams kaffebryggare för att göra Kiplings krypte, ordnar han en ny, datoriserad kaffebryggare åt Bertram. Samtidigt, längtar Jessie, Emma och Zuri efter att få gå på Justin Timberlake-konserten, men när Jessie bara får ett backstage-pass, testas familjebanden.
+    </desc>
+			<category lang="en">series</category>
+			<episode-num system="xmltv_ns">2.80.</episode-num>
+		</programme>
+		<programme channel="disneychannel.se" start="20191115093100 +0000" stop="20191115100000 +0000" clumpidx="0/1">
+			<title lang="sv">Jessie</title>
+			<desc lang="sv">
+    Jessie återvänder, redo att fokusera på sin skådespelarkarriär och börja skolan igen. Ross-barnen bli kanske äldre, men de behöver fortfarande sin barnflicka, och barnflickan behöver dem.
+    </desc>
+			<category lang="en">series</category>
+			<episode-num system="xmltv_ns">3.81.</episode-num>
+		</programme>
+		<programme channel="disneychannel.se" start="20191115100000 +0000" stop="20191115103100 +0000" clumpidx="0/1">
+			<title lang="sv">Raven's Home</title>
+			<desc lang="sv">
+    Gänget fullföljer sina kreativa drömmar! Booker, Nia och Tess bildar ett band medan Raven är fast besluten att lansera sin modekollektion och Chelsea har hittat rätt som livscoach.
+    </desc>
+			<category lang="en">series</category>
+			<episode-num system="xmltv_ns">2.39.</episode-num>
+		</programme>
+		<programme channel="disneychannel.se" start="20191115103100 +0000" stop="20191115110000 +0000" clumpidx="0/1">
+			<title lang="sv">Raven's Home</title>
+			<desc lang="sv">
+    Gänget fullföljer sina kreativa drömmar! Booker, Nia och Tess bildar ett band medan Raven är fast besluten att lansera sin modekollektion och Chelsea har hittat rätt som livscoach.
+    </desc>
+			<category lang="en">series</category>
+			<episode-num system="xmltv_ns">2.40.</episode-num>
+		</programme>
+		<programme channel="disneychannel.se" start="20191115110000 +0000" stop="20191115113100 +0000" clumpidx="0/1">
+			<title lang="sv">K.C. Hemlig agent</title>
+			<desc lang="sv">K.C måste rädda Ernie från en virtuell värld.</desc>
+			<category lang="en">series</category>
+			<episode-num system="xmltv_ns">1.51.</episode-num>
+		</programme>
+		<programme channel="disneychannel.se" start="20191115113100 +0000" stop="20191115120000 +0000" clumpidx="0/1">
+			<title lang="sv">K.C. Hemlig agent</title>
+			<desc lang="sv">
+    K.C. Är osäker på om hon sett sin kusin Abby eller inte.
+    </desc>
+			<category lang="en">series</category>
+			<episode-num system="xmltv_ns">1.53.</episode-num>
+		</programme>
+		<programme channel="disneychannel.se" start="20191115120000 +0000" stop="20191115123100 +0000" clumpidx="0/1">
+			<title lang="sv">Harley i mitten</title>
+			<desc lang="sv">
+    När halva familjen är borta tänker Harley passa på att ha ett pyjamasparty och titta på en passerande komet uppe på taket med sina vänner.
+    </desc>
+			<category lang="en">series</category>
+			<episode-num system="xmltv_ns">0.7.</episode-num>
+		</programme>
+		<programme channel="disneychannel.se" start="20191115123100 +0000" stop="20191115130000 +0000" clumpidx="0/1">
+			<title lang="sv">Harley i mitten</title>
+			<desc lang="sv">
+    Harley, Rachel, Georgie och Ethan går på skolans Vårbal, medan Lewie och Beast tältar i trädgården.
+    </desc>
+			<category lang="en">series</category>
+			<episode-num system="xmltv_ns">1.27.</episode-num>
+		</programme>
+		<programme channel="disneychannel.se" start="20191115130000 +0000" stop="20191115133100 +0000" clumpidx="0/1">
+			<title lang="sv">Bunk'd</title>
+			<desc lang="sv">
+    Emma och Jorge hjälper Ravi när han börjar dejta en tjej som är sin totala motsats. Samtidigt, försöker Zuri och Tiffany återföra ett örnägg till sitt bo.
+    </desc>
+			<category lang="en">series</category>
+			<episode-num system="xmltv_ns">0.19.</episode-num>
+		</programme>
+		<programme channel="disneychannel.se" start="20191115133100 +0000" stop="20191115140000 +0000" clumpidx="0/1">
+			<title lang="sv">Bunk'd</title>
+			<desc lang="sv">Kollobarnen får höra talas om Kikiwaka-spöket.</desc>
+			<category lang="en">series</category>
+			<episode-num system="xmltv_ns">0.20.</episode-num>
+		</programme>
+		<programme channel="disneychannel.se" start="20191115140000 +0000" stop="20191115143100 +0000" clumpidx="0/1">
+			<title lang="sv">Ducktales</title>
+			<desc lang="sv">Joakim blir som besatt av några saknade mynt.</desc>
+			<category lang="en">series</category>
+			<category lang="en">Animation</category>
+			<episode-num system="xmltv_ns">1.35.</episode-num>
+		</programme>
+		<programme channel="disneychannel.se" start="20191115143100 +0000" stop="20191115150000 +0000" clumpidx="0/1">
+			<title lang="sv">
+             Miraculous: Ladybug &amp; Cat Noir på äventyr
+        </title>
+			<desc lang="sv">
+    Ninos lillebror blir akumatiserad och förvandlas till Julmonstret som skickar ut gigantiska leksaker som får löpa amok i ett snötäckt Paris på jakt efter tomten.
+    </desc>
+			<category lang="en">series</category>
+			<category lang="en">Animation</category>
+			<episode-num system="xmltv_ns">2.63.</episode-num>
+		</programme>
+		<programme channel="disneychannel.se" start="20191115150000 +0000" stop="20191115153100 +0000" clumpidx="0/1">
+			<title lang="sv">Bunk'd</title>
+			<desc lang="sv">
+    Efter att Gwen av misstag krossat en ruta, trasslar hon och Destiny in sig i ett nät av lögner. Noah utmanar Ava på att vara öppnare mot saker och ting genom att saga “ja, och-“ till möjligheterna.
+    </desc>
+			<category lang="en">series</category>
+			<episode-num system="xmltv_ns">3.60.</episode-num>
+		</programme>
+	</tv>
+	<tv generator-info-name="Vind 2.55.0" generator-info-url="https://xmltv.se">
+		<programme channel="action.film.viasat.se" start="20191115070000 +0000" stop="20191115082900 +0000" clumpidx="0/1">
+			<title lang="sv">Just Getting Started</title>
+			<desc lang="sv">
+    En pensionerad FBI-agent och en före detta advokat med vittnesskydd måste lägga sin golfbanerivalitet åt sidan och tillsammans hindra maffian från att döda dem.
     </desc>
 			<credits>
-				<director>Breck Eisner</director>
-				<actor>Matthew McConaughey</actor>
-				<actor>Penelope Cruz</actor>
-				<actor>Jude Akuwidike</actor>
-				<actor>Rakie Ayola</actor>
-				<actor>Robert Cavanah</actor>
-			</credits>i
+				<director>Ron Shelton</director>
+				<actor>Morgan Freeman</actor>
+				<actor>Tommy Lee Jones</actor>
+				<actor>Rene Russo</actor>
+				<actor>Joe Pantoliano</actor>
+				<actor>Glenne Headley</actor>
+			</credits>
 			<category lang="en">movie</category>
 			<category lang="en">Action</category>
-			<category lang="en">Adventure</category>
+			<category lang="en">Comedy</category>
 		</programme>
-		<programme channel="action.film.viasat.se" start="20191105070000 +0000" stop="20191105082400 +0000" clumpidx="0/1">
+		<programme channel="action.film.viasat.se" start="20191115090000 +0000" stop="20191115103800 +0000" clumpidx="0/1">
+			<title lang="sv">Searching</title>
+			<desc lang="sv">
+    När Davids dotter försvinner och polisen inte lyckas hitta några som helst ledtrådar tar han saken i egna händer och letar där hemligheter finns: i datorn.
+    </desc>
+			<credits>
+				<director>Aneesh Chaganty</director>
+				<actor>John Cho</actor>
+				<actor>Sara Sohn</actor>
+				<actor>Alex Jayne Go</actor>
+				<actor>Megan Liu</actor>
+				<actor>Kya Dawn Lau</actor>
+			</credits>
+			<category lang="en">movie</category>
+			<category lang="en">Thriller</category>
+			<category lang="en">Mystery</category>
+		</programme>
+		<programme channel="action.film.viasat.se" start="20191115105000 +0000" stop="20191115124400 +0000" clumpidx="0/1">
+			<title lang="sv">I, Tonya</title>
+			<desc lang="sv">
+    Baserat på tidernas största OS-skandal. Lovande konståkaren Tonya Hardings ex-make planerar att bryta benet på hennes konkurrent. Hur mycket kände Tonya egentligen till?
+    </desc>
+			<credits>
+				<director>Craig Gillespie</director>
+				<actor>Margot Robbie</actor>
+				<actor>Sebastian Stan</actor>
+				<actor>Allison Janney</actor>
+				<actor>Julianne Nicholson</actor>
+				<actor>Paul Walter Hauser</actor>
+			</credits>
+			<category lang="en">movie</category>
+			<category lang="en">Drama</category>
+		</programme>
+		<programme channel="action.film.viasat.se" start="20191115125000 +0000" stop="20191115144900 +0000" clumpidx="0/1">
+			<title lang="sv">The Vanishing of Sidney Hall</title>
+			<desc lang="sv">
+    Den kontroversiella författaren Sidney Hall blir berömd över en natt efter att ha skrivit en bästsäljande roman. Men trots framgången rasar hans tillvaro samman och han försvinner spårlöst. Nästan ett decennium senare söker en gåtfull detektiv efter den saknade författaren, vars böcker är kopplade till en rad mystiska mordbränder.
+    </desc>
+			<credits>
+				<director>Shawn Christensen</director>
+				<actor>Michelle Monaghan</actor>
+				<actor>Elle Fanning</actor>
+				<actor>Kyle Chandler</actor>
+				<actor>Logan Lerman</actor>
+				<actor>Blake Jenner</actor>
+			</credits>
+			<category lang="en">movie</category>
+			<category lang="en">Drama</category>
+			<category lang="en">Mystery</category>
+		</programme>
+		<programme channel="action.film.viasat.se" start="20191115145500 +0000" stop="20191115165400 +0000" clumpidx="0/1">
+			<title lang="sv">Guilty</title>
+			<desc lang="sv">
+    Detta drama är baserat på en av de längsta maffiarättegångarna i amerikansk historia. Jack DiNorscio bestämmer sig för att bli åtalad istället för att tjalla på sin familj och kumpaner. Ingen hade dock förväntat sig att han skulle be att få försvara sig på egen hand...
+    </desc>
+			<credits>
+				<director>Sidney Lumet</director>
+				<actor>Vin Diesel</actor>
+				<actor>Linus Roache</actor>
+				<actor>Peter Dinklage</actor>
+				<actor>Ron Silver</actor>
+				<actor>Alex Rocco</actor>
+			</credits>
+			<category lang="en">movie</category>
+			<category lang="en">Comedy</category>
+			<category lang="en">Crime</category>
+		</programme>
+		<programme channel="action.film.viasat.se" start="20191115170000 +0000" stop="20191115182400 +0000" clumpidx="0/1">
 			<title lang="sv">Ufo</title>
 			<desc lang="sv">
     Oförklarliga fenomen har i decennier mörkats av USA:s regering – fram till nu. En ung student, hans flickvän och en matteprofessor dyker in i mysteriet, samtidigt som FBI flåsar dem i nacken.
@@ -62,130 +308,155 @@ Häng med Leon när han skapar unika saker och inspirerande konst i den andra s�
 			<category lang="en">Action</category>
 			<category lang="en">Science-Fiction</category>
 		</programme>
-		<programme channel="action.film.viasat.se" start="20191105090000 +0000" stop="20191105102700 +0000" clumpidx="0/1">
-			<title lang="sv">The Truth Matters</title>
+		<programme channel="action.film.viasat.se" start="20191115190000 +0000" stop="20191115205500 +0000" clumpidx="0/1">
+			<title lang="sv">Destroyer</title>
 			<desc lang="sv">
-    I Washington accepterar de flesta journalister George W. Bush argument för Irakkriget. Men en grupp gräver djupare och hittar källor i regeringskretsarna som avslöjar maktmissbruk på hög nivå.
+    I detta laddade kriminaldrama återfår LA-polisen Erin Bell (Nicole Kidman) kontakten med det kriminella gäng hon för ett tjugotal år sedan infiltrerade undercover tillsammans med partnern Chris (Sebastian Stan, Bucky Barnes i Marvel-filmerna). Att på nytt möta gängmedlemmarna väcker traumatiska minnen av ett uppdrag med katastrofal utgång, och triggar den hämndlystnad som länge förföljt Erin. Hon tvingas åter konfrontera den hänsynslöse gängledaren Silas (Toby Kebbell), samtidigt som hon desperat tacklar sitt livs svåraste uppdrag: att hålla sin sextonåriga dotter från den sortens män hon själv kommit att förakta. Kidmans prestation i filmen Golden Globe-nominerades. För regin står Karyn Kusama.
     </desc>
 			<credits>
-				<director>Rob Reiner</director>
-				<actor>Jessica Biel</actor>
-				<actor>Woody Harrelson</actor>
-				<actor>Milla Jovovich</actor>
-				<actor>Tommy Lee Jones</actor>
-				<actor>James Marsden</actor>
-				<actor>Rob Reiner</actor>
-				<actor>Richard Schiff</actor>
+				<director>Karyn Kusama</director>
+				<actor>Nicole Kidman</actor>
+				<actor>Toby Kebbell</actor>
+				<actor>Tatiana Maslany</actor>
+				<actor>Sebastian Stan</actor>
+				<actor>Scoot McNairy</actor>
 			</credits>
 			<category lang="en">movie</category>
-			<category lang="en">Drama</category>
+			<category lang="en">Thriller</category>
+			<category lang="en">Crime</category>
 		</programme>
-		<programme channel="action.film.viasat.se" start="20191105110000 +0000" stop="20191105122600 +0000" clumpidx="0/1">
-			<title lang="sv">Superswede: En film om Ronnie Peterson</title>
+		<programme channel="action.film.viasat.se" start="20191115210000 +0000" stop="20191115223600 +0000" clumpidx="0/1">
+			<title lang="sv">Blumhouse's Truth or Dare</title>
 			<desc lang="sv">
-    Den svenska racingföraren Ronnie Peterson dog i en våldsam krasch på Monzabanan 1978, vilket chockade en hel värld. I dokumentären medverkar Ronnies dotter Nina Kennedy och några av de största namnen i racingvärlden. Det är en storslagen resa till en tid då Formel 1 innebar glamour, hjältemod och affärer. Dokumentären skildrar också de händelser som lett till att ett dussintals förare mist sina liv på bara ett årtionde.
+    En harmlös omgång av “Sanning eller konsekvens” får dödlig utgång när någon, eller något, börjar straffa dem som inte talar sanning eller som vägrar ta konsekvenserna.
     </desc>
 			<credits>
-				<director>Henrik Jansson-Schweizer</director>
+				<director>Jeff Wadlow</director>
+				<actor>Lucy Hale</actor>
+				<actor>Tyler Posey</actor>
+				<actor>Violett Beane</actor>
+				<actor>Hayden Szeto</actor>
+				<actor>Sophia Ali</actor>
 			</credits>
 			<category lang="en">movie</category>
-			<category lang="en">Documentary</category>
-		</programme>
-		<programme channel="action.film.viasat.se" start="20191105130000 +0000" stop="20191105143400 +0000" clumpidx="0/1">
-			<title lang="sv">A-X-L</title>
-			<desc lang="sv">
-    Miles möter A.X.L., en modern militärhund med artificiell intelligens, och de blir vänner. Men A.X.L.s skapare är på desperat jakt efter honom och Miles måste göra allt för att stoppa det.
-    </desc>
-			<credits>
-				<director>Oliver Daly</director>
-				<actor>Alex Neustaedter</actor>
-				<actor>Becky G</actor>
-				<actor>Alex MacNicoll</actor>
-				<actor>Dominic Rains</actor>
-				<actor>Thomas Jane</actor>
-				<actor>Lou Taylor Pucci</actor>
-			</credits>
-			<category lang="en">movie</category>
-			<category lang="en">Action</category>
-			<category lang="en">Adventure</category>
-		</programme>
-		<programme channel="action.film.viasat.se" start="20191105145000 +0000" stop="20191105164100 +0000" clumpidx="0/1">
-			<title lang="sv">Robin Hood</title>
-			<desc lang="sv">
-    Den krigshärdade korsriddaren Robin av Loxley (Taron Egerton) och hans moriske följeslagare (Jamie Foxx) drar igång ett djärvt uppror mot den korrumperade engelska kronan. Som adelsman på dagen och som rättvisans förkämpe "The Hood" på natten måste Robin offra allt för att rädda Nottinghams invånare och utkräva sin hämnd. Filmen är ett nervpirrande och actionspäckat äventyr med storslagna bataljscener, makalöst välkoreograferade kampscener och tidlös romantik.
-    </desc>
-			<credits>
-				<director>Otto Bathurst</director>
-				<actor>Taron Egerton</actor>
-				<actor>Jamie Foxx</actor>
-				<actor>Ben Mendelsohn</actor>
-				<actor>Eve Hewson</actor>
-				<actor>Jamie Dornan</actor>
-				<actor>Paul Anderson</actor>
-			</credits>
-			<category lang="en">movie</category>
-			<category lang="en">Action</category>
-			<category lang="en">Adventure</category>
+			<category lang="en">Horror</category>
+			<category lang="en">Thriller</category>
 		</programme>
 	</tv>
-	<tv generator-info-name="Vind 2.53.1" generator-info-url="https://xmltv.se">
-		<programme channel="fakta.tv4.se" start="20191112040200 +0000" stop="20191112050000 +0000" clumpidx="0/1">
+	<tv generator-info-name="Vind 2.55.0" generator-info-url="https://xmltv.se">
+		<programme channel="fakta.tv4.se" start="20191115042200 +0000" stop="20191115045100 +0000" clumpidx="0/1">
+			<title lang="sv">Kust och hav</title>
+			<desc lang="sv">
+    Kust och hav är en svensk dokumentärserie från 2013 som sänds i fem delar. Det blir en upptäcktsfärd i den svenska skärgården på sommaren såväl som på vintern. Meteorologen och programledaren Madeleine Westin beger sig tillsammans med Viktor Åkerblom på utflykter till svenska turistkommuner för att se vad de har att erbjuda. Skärgården och havet finns för alla, oavsett om man paddlar kanot eller väljer skärgårdsbåt, segelbåt eller passagerarfärja.
+    </desc>
+			<category lang="en">series</category>
+			<episode-num system="xmltv_ns">0.1.</episode-num>
+		</programme>
+		<programme channel="fakta.tv4.se" start="20191115050200 +0000" stop="20191115060000 +0000" clumpidx="0/1">
 			<title lang="sv">112 - på liv och död</title>
 			<desc lang="sv">
-112 - på liv och död är en svensk dokumentärserie från 2014. Den nionde säsongen sänds i 36 delar. Serien följer brandmän, poliser och ambulanssjuksköterskor i deras arbete. Programmen skildrar de medverkandes vardag men även personerna bakom yrkesrollerna. Starka känslor, turbulens, spänning och snabba beslut blandas med humor, värme och hopp om att hinna fram i tid, rädda liv och förhindra brott och olyckor. I den nionde säsongen medverkar återigen brandmännen Jörgen, Rickard och Thomas på Brännkyrka brandstation i Stockholm. Den här säsongen följer även det yttre befälet Barry, brandförmannen Roger samt brandmännen Olof och Markus på Johannes brandstation. Medverkar gör också brandmännen Tony och nykomlingen Sebastian på Farsta brandstation i Stockholm. Den nionde säsongen av 112 - på liv och död fortsätter att följa det yttre befälet Anders, polisassistenten Hanna samt nykomlingarna Annsi och Gunilla på polisen i Åmål. I den här säsongen medverkar också det yttre befälet Reine och polisassistenterna Andreas, Daniel, Camilla och Gustav i Huddinge samt det yttre befälet Magnus, polisassistenterna Kristoffer och Mats samt gruppchefen Daniel i Handen. Serien fortsätter att följa ambulanssjuksköterskorna Jan-Erik och Angelika samt nykomlingarna Per, Annmarie, Peter och Nicklas i Karlskrona. Den här säsongen följer även ambulanssjuksköterskan Anneli i Karlshamn.
-        </desc>
+    112 - på liv och död är en svensk dokumentärserie. Den tionde säsongen är från 2014 och sänds i 35 delar. Serien följer polis, räddningstjänst och sjöbevakning i Stockholm, Åmål, Västervik och på Åland. Programmen skildrar de medverkandes svåra vardag men även personerna bakom yrkesrollerna. Starka känslor, turbulens, spänning och snabba beslut blandas med humor, värme och hopp om att hinna fram i tid, rädda liv och förhindra brott och olyckor. På Brännkyrka brandstation arbetar Rikard Almlöf, Jörgen Kard och Thomas Andersson. Johannes brandstation är Storstockholms näst äldsta brandstation, stationen har en båt som används vid livräddning och brandsläckning till sjöss. Här arbetar Barry Lewis, Roger Berggren, Olof Glaumann, Anders Axe och Markus Spångberg. Farsta brandstation har beredskap att hantera olyckor med farliga ämnen/kemikalier och är en viktig resurs för hela Stockholms län. Här arbetar Tony Dahlgren och Sebastian Andersson, Matte Lindqvist och Janne Lundgren. Västerviks räddningstjänst täcker ett stort område, vilket innebär långa avstånd för brandmännen. Här finns Daniel Fristedt, Magnus Berlin och Malin Ljunggren. Södertörns polisdistrikt omfattar kommunerna Botkyrka, Huddinge, Haninge och Nynäshamn. Här arbetar bland andra Sebastian Tegnér, Calle Nilsson, Elin Larsson och Tomas Bovelin. I Åmål arbetar poliserna Anders Fryklund, Annsi Wressel, Gunilla Fredin och Hanna Norrman. Åland har en egen polismyndiget och lagarna skiljer sig en del från både Sveriges och Finlands. Eftersom Åland mångdubblar sin befolkning under sommaren så händer det mest på Åland från juni till augusti. De som håller ordning på ön är bland andra Nicolai Båsk, Andreas Näse och Johan Uppgårdh. Sjöbevakningen på Åland är en sjöoperativ del av den finska myndigheten gränsbevakningsväsendet. Sjöbevakningen ansvarar för sjöräddningen till havs, men har även gränsbevakningsuppgifter. Här finns bland andra Markus Åkerfelt, Magnus Kalm och Fredrik Danielsson.
+    </desc>
 			<category lang="en">series</category>
 			<category lang="en">Reality</category>
-			<episode-num system="xmltv_ns">8.31.</episode-num>
+			<episode-num system="xmltv_ns">9.3.</episode-num>
 		</programme>
-		<programme channel="fakta.tv4.se" start="20191112050000 +0000" stop="20191112055800 +0000" clumpidx="0/1">
-			<title lang="sv">112 - på liv och död</title>
-			<desc lang="sv">
-112 - på liv och död är en svensk dokumentärserie från 2014. Den nionde säsongen sänds i 36 delar. Serien följer brandmän, poliser och ambulanssjuksköterskor i deras arbete. Programmen skildrar de medverkandes vardag men även personerna bakom yrkesrollerna. Starka känslor, turbulens, spänning och snabba beslut blandas med humor, värme och hopp om att hinna fram i tid, rädda liv och förhindra brott och olyckor. I den nionde säsongen medverkar återigen brandmännen Jörgen, Rickard och Thomas på Brännkyrka brandstation i Stockholm. Den här säsongen följer även det yttre befälet Barry, brandförmannen Roger samt brandmännen Olof och Markus på Johannes brandstation. Medverkar gör också brandmännen Tony och nykomlingen Sebastian på Farsta brandstation i Stockholm. Den nionde säsongen av 112 - på liv och död fortsätter att följa det yttre befälet Anders, polisassistenten Hanna samt nykomlingarna Annsi och Gunilla på polisen i Åmål. I den här säsongen medverkar också det yttre befälet Reine och polisassistenterna Andreas, Daniel, Camilla och Gustav i Huddinge samt det yttre befälet Magnus, polisassistenterna Kristoffer och Mats samt gruppchefen Daniel i Handen. Serien fortsätter att följa ambulanssjuksköterskorna Jan-Erik och Angelika samt nykomlingarna Per, Annmarie, Peter och Nicklas i Karlskrona. Den här säsongen följer även ambulanssjuksköterskan Anneli i Karlshamn.
-        </desc>
-			<category lang="en">series</category>
-			<category lang="en">Reality</category>
-			<episode-num system="xmltv_ns">8.32.</episode-num>
-		</programme>
-		<programme channel="fakta.tv4.se" start="20191112060000 +0000" stop="20191112065800 +0000" clumpidx="0/1">
+		<programme channel="fakta.tv4.se" start="20191115060000 +0000" stop="20191115065800 +0000" clumpidx="0/1">
 			<title lang="sv">En plats i solen: Vintersol</title>
 			<desc lang="sv">
-"En plats i solen: Vintersol" är en brittisk livsstilsserie från 2014. Här hjälper fastighetsexperter personer som söker sitt drömhus där de kan tillbringa sin semester under vintern. Varje avsnitt följer personerna när de tittar på fastigheter på platser som Spanien, Karibien och Florida.
-        </desc>
+    "En plats i solen: Vintersol" är en brittisk livsstilsserie från 2016. Här hjälper fastighetsexperter personer som söker sitt drömhus där de kan tillbringa sin semester under vintern. Varje avsnitt följer personerna när de tittar på fastigheter på platser som Florida, Costa Rica, Spanien och Portugal.
+    </desc>
 			<category lang="en">series</category>
-			<episode-num system="xmltv_ns">1.28.</episode-num>
+			<episode-num system="xmltv_ns">3.4.</episode-num>
 		</programme>
-		<programme channel="fakta.tv4.se" start="20191112070000 +0000" stop="20191112075800 +0000" clumpidx="0/1">
+		<programme channel="fakta.tv4.se" start="20191115070000 +0000" stop="20191115075800 +0000" clumpidx="0/1">
 			<title lang="sv">En plats i solen: Vintersol</title>
 			<desc lang="sv">
-"En plats i solen: Vintersol" är en brittisk livsstilsserie från 2014. Här hjälper fastighetsexperter personer som söker sitt drömhus där de kan tillbringa sin semester under vintern. Varje avsnitt följer personerna när de tittar på fastigheter på platser som Spanien, Karibien och Florida.
-        </desc>
+    "En plats i solen: Vintersol" är en brittisk livsstilsserie från 2016. Här hjälper fastighetsexperter personer som söker sitt drömhus där de kan tillbringa sin semester under vintern. Varje avsnitt följer personerna när de tittar på fastigheter på platser som Florida, Costa Rica, Spanien och Portugal.
+    </desc>
 			<category lang="en">series</category>
-			<episode-num system="xmltv_ns">1.29.</episode-num>
+			<episode-num system="xmltv_ns">3.5.</episode-num>
 		</programme>
-		<programme channel="fakta.tv4.se" start="20191112080100 +0000" stop="20191112085900 +0000" clumpidx="0/1">
+		<programme channel="fakta.tv4.se" start="20191115080200 +0000" stop="20191115090000 +0000" clumpidx="0/1">
 			<title lang="sv">Halv åtta hos mig: England</title>
 			<desc lang="sv">
-Halv åtta hos mig: England är en brittisk matlagningsserie från 2012. Det här är den sjunde säsongen som sänds i 45 avsnitt. Här får amatörkockar sätta sina matlagningskonster och sociala färdigheter på prov. Fyra för varandra okända personer turas om att bjuda varandra på middag. Varje moment i bjudningen är lika viktigt, presentationen av menyn, inköp, dukning, matlagning, fördrink, underhållningen och slutligen middagen. När den står på bordet är det dags för sanningens ögonblick. Till sist betygsätts värden av sina gäster och den som fått högst betyg när veckan är över kammar hem en summa pengar.
-        </desc>
+    Halv åtta hos mig: England är en brittisk matlagningsserie från 2012. Det här är den sjunde säsongen som sänds i 45 avsnitt. Här får amatörkockar sätta sina matlagningskonster och sociala färdigheter på prov. Fyra för varandra okända personer turas om att bjuda varandra på middag. Varje moment i bjudningen är lika viktigt, presentationen av menyn, inköp, dukning, matlagning, fördrink, underhållningen och slutligen middagen. När den står på bordet är det dags för sanningens ögonblick. Till sist betygsätts värden av sina gäster och den som fått högst betyg när veckan är över kammar hem en summa pengar.
+    </desc>
 			<category lang="en">series</category>
-			<episode-num system="xmltv_ns">6.26.</episode-num>
+			<episode-num system="xmltv_ns">6.32.</episode-num>
 		</programme>
-		<programme channel="fakta.tv4.se" start="20191112090000 +0000" stop="20191112095700 +0000" clumpidx="0/1">
+		<programme channel="fakta.tv4.se" start="20191115090000 +0000" stop="20191115095800 +0000" clumpidx="0/1">
 			<title lang="sv">Veterinärerna</title>
 			<desc lang="sv">
-Veterinärerna är en svensk dokumentärserie från 2017. Det här är den sjätte säsongen som sänds i 28 delar. Om veterinärer runt om i Sverige och deras dagliga arbete på bland annat djursjukhus, djurkliniker och djurparker. De visar öppenhjärtigt upp sin vardag där de hjälper djur som skadat sig eller blivit sjuka. Veterinärerna möter många olika typer av djur, både stora och små, och får ta del av deras ägares berättelser. Det blir inslag med veterinärer från Falun, Ludvika, Stockholm, Göteborg, Jönköping, Norsholm, Kalmar, Läckeby och Hässleholm. Veterinärer och djurvårdare på Skånes djurpark medverkar också.
-        </desc>
+    Veterinärerna är en svensk dokumentärserie från 2017. Det här är den sjätte säsongen som sänds i 28 delar. Om veterinärer runt om i Sverige och deras dagliga arbete på bland annat djursjukhus, djurkliniker och djurparker. De visar öppenhjärtigt upp sin vardag där de hjälper djur som skadat sig eller blivit sjuka. Veterinärerna möter många olika typer av djur, både stora och små, och får ta del av deras ägares berättelser. Det blir inslag med veterinärer från Falun, Ludvika, Stockholm, Göteborg, Jönköping, Norsholm, Kalmar, Läckeby och Hässleholm. Veterinärer och djurvårdare på Skånes djurpark medverkar också.
+    </desc>
 			<category lang="en">series</category>
-			<episode-num system="xmltv_ns">5.14.</episode-num>
+			<episode-num system="xmltv_ns">5.17.</episode-num>
 		</programme>
-		<programme channel="fakta.tv4.se" start="20191112100100 +0000" stop="20191112105900 +0000" clumpidx="0/1">
+		<programme channel="fakta.tv4.se" start="20191115100000 +0000" stop="20191115105800 +0000" clumpidx="0/1">
 			<title lang="sv">Mitt liv som valp</title>
 			<desc lang="sv">
-Mitt liv som valp är en svensk dokumentärserie från 2015. Det här är den första säsongen som sänds i tio delar. Här ges en inblick i åtta nya hundägares liv och de utmaningar som den första tiden kan innebära. Valparna är av olika raser och befinner sig i skilda stadier av valplivet, allt från den allra minsta som just lämnat kullen till tonårsvalpen som orsakar oreda så fort den vill leka. Hundtränaren Fredrik Steen stöttar familjerna och ger råd kring de problem som kan uppstå. Det kan handla om frågor kring att valpen inte sover om natten, att den envisas med att kissa inomhus eller om den kan lämnas ensam hemma. Både glädjen och oron som hussarna och mattarna upplever får plats i programmet.
-        </desc>
+    Mitt liv som valp är en svensk dokumentärserie från 2015. Det här är den första säsongen som sänds i tio delar. Här ges en inblick i åtta nya hundägares liv och de utmaningar som den första tiden kan innebära. Valparna är av olika raser och befinner sig i skilda stadier av valplivet, allt från den allra minsta som just lämnat kullen till tonårsvalpen som orsakar oreda så fort den vill leka. Hundtränaren Fredrik Steen stöttar familjerna och ger råd kring de problem som kan uppstå. Det kan handla om frågor kring att valpen inte sover om natten, att den envisas med att kissa inomhus eller om den kan lämnas ensam hemma. Både glädjen och oron som hussarna och mattarna upplever får plats i programmet.
+    </desc>
 			<category lang="en">series</category>
-			<episode-num system="xmltv_ns">0.0.</episode-num>
+			<episode-num system="xmltv_ns">0.3.</episode-num>
+		</programme>
+		<programme channel="fakta.tv4.se" start="20191115130000 +0000" stop="20191115135800 +0000" clumpidx="0/1">
+			<title lang="sv">Halv åtta hos mig: England</title>
+			<desc lang="sv">
+    Halv åtta hos mig: England är en brittisk matlagningsserie från 2012. Det här är den sjunde säsongen som sänds i 45 avsnitt. Här får amatörkockar sätta sina matlagningskonster och sociala färdigheter på prov. Fyra för varandra okända personer turas om att bjuda varandra på middag. Varje moment i bjudningen är lika viktigt, presentationen av menyn, inköp, dukning, matlagning, fördrink, underhållningen och slutligen middagen. När den står på bordet är det dags för sanningens ögonblick. Till sist betygsätts värden av sina gäster och den som fått högst betyg när veckan är över kammar hem en summa pengar.
+    </desc>
+			<category lang="en">series</category>
+			<episode-num system="xmltv_ns">6.33.</episode-num>
+		</programme>
+		<programme channel="fakta.tv4.se" start="20191115140000 +0000" stop="20191115145800 +0000" clumpidx="0/1">
+			<title lang="sv">Mitt liv som valp</title>
+			<desc lang="sv">
+    Mitt liv som valp är en svensk dokumentärserie från 2015. Det här är den första säsongen som sänds i tio delar. Här ges en inblick i åtta nya hundägares liv och de utmaningar som den första tiden kan innebära. Valparna är av olika raser och befinner sig i skilda stadier av valplivet, allt från den allra minsta som just lämnat kullen till tonårsvalpen som orsakar oreda så fort den vill leka. Hundtränaren Fredrik Steen stöttar familjerna och ger råd kring de problem som kan uppstå. Det kan handla om frågor kring att valpen inte sover om natten, att den envisas med att kissa inomhus eller om den kan lämnas ensam hemma. Både glädjen och oron som hussarna och mattarna upplever får plats i programmet.
+    </desc>
+			<category lang="en">series</category>
+			<episode-num system="xmltv_ns">0.4.</episode-num>
+		</programme>
+		<programme channel="fakta.tv4.se" start="20191115150000 +0000" stop="20191115155700 +0000" clumpidx="0/1">
+			<title lang="sv">Veterinärerna</title>
+			<desc lang="sv">
+    Veterinärerna är en svensk dokumentärserie från 2017. Det här är den sjätte säsongen som sänds i 28 delar. Om veterinärer runt om i Sverige och deras dagliga arbete på bland annat djursjukhus, djurkliniker och djurparker. De visar öppenhjärtigt upp sin vardag där de hjälper djur som skadat sig eller blivit sjuka. Veterinärerna möter många olika typer av djur, både stora och små, och får ta del av deras ägares berättelser. Det blir inslag med veterinärer från Falun, Ludvika, Stockholm, Göteborg, Jönköping, Norsholm, Kalmar, Läckeby och Hässleholm. Veterinärer och djurvårdare på Skånes djurpark medverkar också.
+    </desc>
+			<category lang="en">series</category>
+			<episode-num system="xmltv_ns">5.18.</episode-num>
+		</programme>
+		<programme channel="fakta.tv4.se" start="20191115160000 +0000" stop="20191115165800 +0000" clumpidx="0/1">
+			<title lang="sv">En plats i solen: Vintersol</title>
+			<desc lang="sv">
+    "En plats i solen: Vintersol" är en brittisk livsstilsserie från 2016. Här hjälper fastighetsexperter personer som söker sitt drömhus där de kan tillbringa sin semester under vintern. Varje avsnitt följer personerna när de tittar på fastigheter på platser som Florida, Costa Rica, Spanien och Portugal.
+    </desc>
+			<category lang="en">series</category>
+			<episode-num system="xmltv_ns">3.6.</episode-num>
+		</programme>
+		<programme channel="fakta.tv4.se" start="20191115170000 +0000" stop="20191115175800 +0000" clumpidx="0/1">
+			<title lang="sv">En plats i solen: Vintersol</title>
+			<desc lang="sv">
+    "En plats i solen: Vintersol" är en brittisk livsstilsserie från 2016. Här hjälper fastighetsexperter personer som söker sitt drömhus där de kan tillbringa sin semester under vintern. Varje avsnitt följer personerna när de tittar på fastigheter på platser som Florida, Costa Rica, Spanien och Portugal.
+    </desc>
+			<category lang="en">series</category>
+			<episode-num system="xmltv_ns">3.7.</episode-num>
+		</programme>
+		<programme channel="fakta.tv4.se" start="20191115180000 +0000" stop="20191115191100 +0000" clumpidx="0/1">
+			<title lang="sv">Stacey Dooley undersöker</title>
+			<desc lang="sv">
+    Stacey Dooley undersöker är en brittisk dokumentärserie från 2010 som sänds i två delar. I Demokratiska republiken Kongo har ett inbördeskrig pågått i 14 år. Man beräknar att det finns 30 000 barnsoldater i landet och flera tusen som hålls som slavar av milisen men även armén använder sig av barn. I Kambodja säljs tusentals unga flickor för att utnyttjas som sexslavar, ofta av sina egna familjer. Runt en tredjedel av landets 100 000 prostituerade är under 18 år och situationen attraherar både sexturister, pedofiler och lokala män.
+    </desc>
+			<category lang="en">series</category>
+			<episode-num system="xmltv_ns">1.0.</episode-num>
+		</programme>
+		<programme channel="fakta.tv4.se" start="20191115191100 +0000" stop="20191115200900 +0000" clumpidx="0/1">
+			<title lang="sv">Bedrägeripolisen</title>
+			<desc lang="sv">
+    Bedrägeripolisen är en brittisk dokumentärserie, det här är den nionde säsongen i tio delar från 2017. Här följer vi ett brittiskt specialteam som är på jakt efter misstänka försäkringsbedragare. I den fjärde säsongen ser vi bland annat en hantverkare fångas av en dold kamera när han arbetar till synes obehindrat trots att han får inkomstersättning för ett anmält handikapp, och hur ett stavfel leder till avslöjandet av ett medicinskt försäkringsbedrägeri, där en person söker ersättning för ett vårdingrepp som aldrig ägt rum. Dessutom får vi ta del av fall från USA, där bland annat en psykiatriker avslöjas för att ha utfärdat falska diagnoser på patienter i ett bedrägeri av historiska proportioner.
+    </desc>
+			<category lang="en">series</category>
+			<category lang="en">Documentary</category>
+			<episode-num system="xmltv_ns">8.4.</episode-num>
 		</programme>
 	</tv>
 </tvguide>
